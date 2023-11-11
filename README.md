@@ -2,6 +2,9 @@
 # **Cash App**
 ![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif)
 ## Overview and Origin
+* What is Cash App?
+
+Cash App is a peer-to-peer payment service that allows individuals to send, recieve, request, and invest money. You can also use it to send and recieve stocks and bitcoin **(TIME)**. It allows one to bank through a mobile phone than a traditional bank that would accompany with fees. 
 
 * When was the company incorporated?
   
@@ -24,7 +27,11 @@ Cash App founder is Bob Lee.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
  
- Cash App opened its services for it to be tailored to teens. Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo.
+ Cash App opened its services for it to be tailored to teens. However, both minors and adults can use the app. If a minor gets permission from their parent they can gain access to more Cash App features, such as direct deposit, bitcoin, and stocks. 
+ 
+ Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo. 
+ 
+ According to data from the Pew Research Center, in September of 2022, 36% of the share of lower-income consumers was twice than the 18% of the share of upper-income consumers. **(payment dive)**
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -64,6 +71,9 @@ Cash App founder is Bob Lee.
 
 https://en.wikipedia.org/wiki/Cash_App
 https://www.forbes.com/advisor/money-transfer/what-is-cash-app/
+
+https://time.com/personal-finance/article/what-is-cash-app/#:~:text=It%20was%20launched%20in%202013,fees%20that%20usually%20accompany%20banking. (Q1)
+
 
 * Business Activities
 
