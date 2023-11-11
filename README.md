@@ -9,7 +9,7 @@ The company was incorporated in October 15, 2013. It was formally known as Squar
 
 * Who are the founders of the company?
 
-
+Cash App founder is Bob Lee. 
 
 * How did the idea for the company (or project) come about?
 
