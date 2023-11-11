@@ -1,6 +1,6 @@
-# Case Study Proposal
+## Case Study Proposal
 # **Cash App**
-
+![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif)
 ## Overview and Origin
 
 * When was the company incorporated?
