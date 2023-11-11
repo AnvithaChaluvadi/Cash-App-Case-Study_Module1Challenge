@@ -13,7 +13,6 @@ Cash App founder is Bob Lee.
 
 * How did the idea for the company (or project) come about?
 
-
 * How is the company funded? How much funding have they received?
 
 
@@ -21,7 +20,11 @@ Cash App founder is Bob Lee.
 
 * What specific financial problem is the company or project trying to solve?
 
+*“Our competitors have seen that, and definitely take advantage of the fact that we have a gap specifically in outbound sales,” Dorsey said at the bank’s global technology, media and communications conference. “And we’re figuring out more of a balance there, and not being so stubborn about being technology-first and -focused.”* **(NOTE WILL FIX LATER)**
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+ 
+ Cash App opened its services for it to be tailored to teens. Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -62,9 +65,11 @@ Cash App founder is Bob Lee.
 https://en.wikipedia.org/wiki/Cash_App
 https://www.forbes.com/advisor/money-transfer/what-is-cash-app/
 
-
-
 * Business Activities
+
+https://www.paymentsdive.com/news/cash-app-older-affluent-customers-block-jack-dorsey-square-clover-toast-payments/651114/#:~:text=By%20age%20group%2C%20nearly%2040,who%20used%20it%2C%20Pew%20discovered. (Q2)
+
+https://www.oberlo.com/statistics/how-many-people-use-cash-app (Q2)
 * Landscape
 * Results
 * Recommendations
