@@ -13,6 +13,7 @@ Cash App founder is Bob Lee.
 
 * How did the idea for the company (or project) come about?
 
+
 * How is the company funded? How much funding have they received?
 
 
@@ -57,6 +58,12 @@ Cash App founder is Bob Lee.
 
 ## Resources
 * Overview and Origin
+
+https://en.wikipedia.org/wiki/Cash_App
+https://www.forbes.com/advisor/money-transfer/what-is-cash-app/
+
+
+
 * Business Activities
 * Landscape
 * Results
