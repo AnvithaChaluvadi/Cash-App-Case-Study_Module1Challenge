@@ -56,3 +56,8 @@ The company was incorporated in October 15, 2013. It was formally known as Squar
 * Why are these technologies appropriate for your solution?
 
 ## Resources
+* Overview and Origin
+* Business Activities
+* Landscape
+* Results
+* Recommendations
