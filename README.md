@@ -1,13 +1,14 @@
-## <center>Case Study Proposal</center>
+## Case Study Proposal
 # **Cash App**
 ![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif) 
 
 ## Overview and Origin
 * **<ins>What is Cash App?</ins>**
 
-Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and recieve stocks and bitcoin **(TIME)**. 
+Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and recieve stocks and bitcoin. **(TIME)** In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagment.
 
-It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. It allows them to access their invesments quickly and efficiently on the go. 
+It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. It allows them to access their invesments quickly and efficiently on the go.
+
 
 * **<ins>When was the company incorporated?</ins>**
   
@@ -37,9 +38,19 @@ The concept of cost splitting was not new given the presence of Venmo as well as
  
  Cash App opened its services for it to be tailored to teens. However, both minors and adults can use the app. If a minor gets permission from their parent(s) they can gain access to more Cash App features, such as direct deposit, bitcoin, and stocks. 
  
- Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo. 
+ Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo. According to data from Pew Research Center, which was released in September of 2022, lower-income consumers was twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18% **(payment dive)**
 
-According to data from Pew Research Center, which was released in September of 2022, lower-income consumers was twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18% **(payment dive)**
+ Additionally, Pew Research Center discovered the usage of users by age group.
+
+ **More Likely to use Cash App**
+ 
+* 40% - 18 to 19 year olds
+* 30% - 49 years olds
+
+**Less Likely to use Cash App**
+
+* 19% - 50 to 64 year olds
+* 9% - 65+ years olds 
 
 
 * **<ins>What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)</ins>**
@@ -48,6 +59,8 @@ Cash App beats its competitors by encouraging user loyalty and retention through
 
 
 * **<ins>Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)</ins>**
+
+
 
 
 
@@ -82,22 +95,25 @@ Cash App beats its competitors by encouraging user loyalty and retention through
 ## Resources
 * Overview and Origin
 
-https://en.wikipedia.org/wiki/Cash_App
-https://www.forbes.com/advisor/money-transfer/what-is-cash-app/
+[Wikipedia - Cash App](https://en.wikipedia.org/wiki/Cash_App)
 
-https://time.com/personal-finance/article/what-is-cash-app/#:~:text=It%20was%20launched%20in%202013,fees%20that%20usually%20accompany%20banking. (Q1)
+[Forbes - What is Cash Ap and How Does Tt Work?](https://www.forbes.com/advisor/money-transfer/what-is-cash-app/)
 
-https://newsletter.fintechtakes.com/p/cash-app (Q4)
+[TIMES - What is Cash App and How Does It Work?](https://time.com/personal-finance/article/what-is-cash-app/#:~:text=It%20was%20launched%20in%202013,fees%20that%20usually%20accompany%20banking.) (Q1)
+
+[Fintech Takes - Cash App is Culture](https://newsletter.fintechtakes.com/p/cash-app ) (Q4)
 
 
 
 * Business Activities
 
-https://www.paymentsdive.com/news/cash-app-older-affluent-customers-block-jack-dorsey-square-clover-toast-payments/651114/#:~:text=By%20age%20group%2C%20nearly%2040,who%20used%20it%2C%20Pew%20discovered. (Q2)
+[Payment Dive - Cash App Pursues Older, Affluent Customers](https://www.paymentsdive.com/news/cash-app-older-affluent-customers-block-jack-dorsey-square-clover-toast-payments/651114/#:~:text=By%20age%20group%2C%20nearly%2040,who%20used%20it%2C%20Pew%20discovered.) (Q2)
 
-https://www.oberlo.com/statistics/how-many-people-use-cash-app (Q2)
+[Oberlo - How Many People Use Cash App](https://www.oberlo.com/statistics/how-many-people-use-cash-app) (Q2)
 
-https://fourweekmba.com/how-does-cash-app-make-money/#:~:text=Competitive%20Advantage&text=%E2%80%93%20Positions%20Cash%20App%20as%20a,provide%20exclusive%20deals%20and%20promotions. (Q3)
+[FourWeekMBA - How Does Cash App Make Money](https://fourweekmba.com/how-does-cash-app-make-money/#:~:text=Competitive%20Advantage&text=%E2%80%93%20Positions%20Cash%20App%20as%20a,provide%20exclusive%20deals%20and%20promotions.) (Q3)
+
+[6sense Cash App](https://6sense.com/company/cash-app/5c3b0252d55ae49f1b792ec3 ) (Q4)
 * Landscape
 * Results
 * Recommendations
