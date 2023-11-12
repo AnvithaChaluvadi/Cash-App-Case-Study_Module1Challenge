@@ -1,4 +1,4 @@
-## <center>Case Study Proposal</center>
+## Case Study Proposal
 # **Cash App**
 ![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif) 
 
