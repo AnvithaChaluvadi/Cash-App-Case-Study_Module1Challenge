@@ -30,15 +30,16 @@ The concept of cost splitting was not new given the presence of Venmo as well as
 
 * What specific financial problem is the company or project trying to solve?
 
-*“Our competitors have seen that, and definitely take advantage of the fact that we have a gap specifically in outbound sales,” Dorsey said at the bank’s global technology, media and communications conference. “And we’re figuring out more of a balance there, and not being so stubborn about being technology-first and -focused.”* **(NOTE WILL FIX LATER)**
+> “Our competitors have seen that, and definitely take advantage of the fact that we have a gap specifically in outbound sales,” Dorsey said at the bank’s global technology, media and communications conference. “And we’re figuring out more of a balance there, and not being so stubborn about being technology-first and -focused.” **(NOTE WILL FIX LATER)**
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
  
  Cash App opened its services for it to be tailored to teens. However, both minors and adults can use the app. If a minor gets permission from their parent(s) they can gain access to more Cash App features, such as direct deposit, bitcoin, and stocks. 
  
  Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo. 
- 
- According to data from the Pew Research Center, in September of 2022, 36% of the share of lower-income consumers was twice than the 18% of the share of upper-income consumers. **(payment dive)**
+
+According to data from Pew Research Center, which was released in September of 2022, lower-income consumers was twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18%
+
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
