@@ -1,39 +1,39 @@
-## Case Study Proposal
+## <center>Case Study Proposal</center>
 # **Cash App**
-![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif)
+![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif) 
 
 ## Overview and Origin
-* **What is Cash App?**
+* **<ins>What is Cash App?</ins>**
 
-Using Cash App, users can send, receive, request, and invest money peer-to-peer. You can also use it to send and recieve stocks and bitcoin **(TIME)**. 
+Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and recieve stocks and bitcoin **(TIME)**. 
 
 It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. It allows them to access their invesments quickly and efficiently on the go. 
 
-* **When was the company incorporated?**
+* **<ins>When was the company incorporated?</ins>**
   
 The company was incorporated in October 15, 2013. It was formally known as Square Cash before it was Cash App. **(wiki)**
 
-* **Who are the founders of the company?**
+* **<ins>Who are the founders of the company?</ins>**
 
 Cash App founders are Jack Dorsey and Jim McKelvey.**(wiki)**
 
-* **How did the idea for the company (or project) come about?**
+* **<ins>How did the idea for the company (or project) come about?</ins>**
 
  It was created in 2013 during a company hackathon. It was developed with a purpose to make electronic payments between peers simple for things like splitting a bill at a restaurant or separating costs for an AirBnB rental.
 
 The concept of cost splitting was not new given the presence of Venmo as well as Google’s P2P payments functionality. Square’s product was not that sophisticated when it was initially introduced. **(fintech takes)**
 
-* **How is the company funded? How much funding have they received?**
+* **<ins>How is the company funded? How much funding have they received?</ins>**
 
  Their income is from users withdrawing funds from the app to their linked bank accounts. **(Wiki under finance)**
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
+* **<ins>What specific financial problem is the company or project trying to solve?</ins>**
 
 > “Our competitors have seen that, and definitely take advantage of the fact that we have a gap specifically in outbound sales,” Dorsey said at the bank’s global technology, media and communications conference. “And we’re figuring out more of a balance there, and not being so stubborn about being technology-first and -focused.” **(NOTE WILL FIX LATER)**
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* **<ins>Who is the company's intended customer?  Is there any information about the market size of this set of customers?</ins>**
  
  Cash App opened its services for it to be tailored to teens. However, both minors and adults can use the app. If a minor gets permission from their parent(s) they can gain access to more Cash App features, such as direct deposit, bitcoin, and stocks. 
  
@@ -42,10 +42,13 @@ The concept of cost splitting was not new given the presence of Venmo as well as
 According to data from Pew Research Center, which was released in September of 2022, lower-income consumers was twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18% **(payment dive)**
 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* **<ins>What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)</ins>**
+
+Cash App beats its competitors by encouraging user loyalty and retention through its unique services. It also has a benefit by fostering relationships with its partner retailers, which provide users with exclusive deals and promotions. Overall, its reputation and user trust gives its a competitive edge over other competitors.
 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+* **<ins>Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)</ins>**
+
 
 
 ## Landscape
