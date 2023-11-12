@@ -1,6 +1,7 @@
 ## Case Study Proposal
 # **Cash App**
 ![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif)
+
 ## Overview and Origin
 * **What is Cash App?**
 
@@ -10,21 +11,21 @@ It makes it easier for one to manage their money without having to go through a 
 
 * **When was the company incorporated?**
   
-The company was incorporated in October 15, 2013. It was formally known as Square Cash before it was Cash App. (wiki)
+The company was incorporated in October 15, 2013. It was formally known as Square Cash before it was Cash App. **(wiki)**
 
 * **Who are the founders of the company?**
 
-Cash App founders are Jack Dorsey and Jim McKelvey.(wiki)
+Cash App founders are Jack Dorsey and Jim McKelvey.**(wiki)**
 
 * **How did the idea for the company (or project) come about?**
 
  It was created in 2013 during a company hackathon. It was developed with a purpose to make electronic payments between peers simple for things like splitting a bill at a restaurant or separating costs for an AirBnB rental.
 
-The concept of cost splitting was not new given the presence of Venmo as well as Google’s P2P payments functionality. Square’s product was not that sophisticated when it was initially introduced. (fintech takes)
+The concept of cost splitting was not new given the presence of Venmo as well as Google’s P2P payments functionality. Square’s product was not that sophisticated when it was initially introduced. **(fintech takes)**
 
 * **How is the company funded? How much funding have they received?**
 
- Their income is from users withdrawing funds from the app to their linked bank accounts. (Wiki under finance)
+ Their income is from users withdrawing funds from the app to their linked bank accounts. **(Wiki under finance)**
 
 ## Business Activities
 
@@ -38,10 +39,11 @@ The concept of cost splitting was not new given the presence of Venmo as well as
  
  Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo. 
 
-According to data from Pew Research Center, which was released in September of 2022, lower-income consumers was twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18%
+According to data from Pew Research Center, which was released in September of 2022, lower-income consumers was twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18% **(payment dive)**
 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
@@ -91,6 +93,8 @@ https://newsletter.fintechtakes.com/p/cash-app (Q4)
 https://www.paymentsdive.com/news/cash-app-older-affluent-customers-block-jack-dorsey-square-clover-toast-payments/651114/#:~:text=By%20age%20group%2C%20nearly%2040,who%20used%20it%2C%20Pew%20discovered. (Q2)
 
 https://www.oberlo.com/statistics/how-many-people-use-cash-app (Q2)
+
+https://fourweekmba.com/how-does-cash-app-make-money/#:~:text=Competitive%20Advantage&text=%E2%80%93%20Positions%20Cash%20App%20as%20a,provide%20exclusive%20deals%20and%20promotions. (Q3)
 * Landscape
 * Results
 * Recommendations
