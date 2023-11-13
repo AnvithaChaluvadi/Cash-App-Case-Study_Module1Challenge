@@ -65,7 +65,7 @@ Cash App beats its competitors by encouraging user loyalty and retention through
 ## Landscape
 
 * What domain of the financial industry is the company in?
-
+TEST 123
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
 * What are the other major companies in this domain?
