@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 #### Case Study Proposal
-=======
-## Case Study Proposal
->>>>>>> e65989f78060b0e709e46567fe2baa1f3baafc72
 # **Cash App**
 ![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif) 
 
