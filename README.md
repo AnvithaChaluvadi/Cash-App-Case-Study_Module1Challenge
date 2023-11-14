@@ -1,9 +1,10 @@
-#### Case Study Proposal
-# **Cash App**
+#### Module 1 Challenge: Case Study
+# **[Cash App](https://cash.app/)**
 ![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif) 
 
 ## Overview and Origin
 ### **<ins>What is Cash App?</ins>**
+![](https://images.squarespace-cdn.com/content/v1/54107bc9e4b0f7682188312b/1517689855505-1PQU75BQNTUJUSJT4MOO/AD_v4.gif?format=1500w)
 
 Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and receive stocks and bitcoin. **(TIME)** In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement.
 
