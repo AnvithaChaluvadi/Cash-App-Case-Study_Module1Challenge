@@ -1,18 +1,26 @@
 #### Module 1 Challenge: Case Study
 # **[Cash App](https://cash.app/)**
-![ ](https://img.money.com/2021/12/News-Cash-App-Crypto-Gifts.gif) 
+![ ](https://hiswillrecords.com/wp-content/uploads/2022/03/CashApp-NuDILIGENCE.gif) 
 
 ## Overview and Origin
 ### **<ins>What is Cash App?</ins>**
 ![](https://images.squarespace-cdn.com/content/v1/54107bc9e4b0f7682188312b/1517689855505-1PQU75BQNTUJUSJT4MOO/AD_v4.gif?format=1500w)
 
-Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and receive stocks and bitcoin. **(TIME)** In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement.
+ 
+
+Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement.
 
 
  <p align="center">
  <img src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267673265-5E60M9BOLKWESXMELVHR/image-asset.gif" width =40% height 30%=/>
  </p>
 
+
+You can also use it to send and receive stocks and bitcoin. **(TIME)** Stocks can be purchased using one's funds in their Cash App balance. If their is insufficent funds in their Cash App balance, the remaining balance would be debited from their linked debit card. Additionally, stocks can be scheduled any time of the day (24/7), but would be placed during market hours. You can set up automatic purchaes of stock every day, a week, or 2 times a week.**(CASH APP)** 
+
+ <p align="center">
+ <img src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267706766-ZEFONB2M1XM0KZBECLTQ/image-asset.gif" width =60% height 30%=/>
+ </p>
 
 It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. The platform is easy to use and gives a user-friendly interface. It allows them to access their investments quickly and efficiently on the go. Also, it provides its users a secure digital wallet to store their money. 
 
