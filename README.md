@@ -5,27 +5,30 @@
 ## Overview and Origin
 ### **<ins>What is Cash App?</ins>**
 
-Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and recieve stocks and bitcoin. **(TIME)** In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagment.
+Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and receive stocks and bitcoin. **(TIME)** In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement.
 
-It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. It allows them to access their invesments quickly and efficiently on the go.
+It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. It allows them to access their investments quickly and efficiently on the go.
 
 
 ### **<ins>When was the company incorporated?</ins>**
-  
-The company was incorporated in October 15, 2013. It was formally known as Square Cash before it was Cash App. **(WIKI)**
+ The company was incorporated on October 15, 2013. It was formerly known as Square Cash before it was Cash App. **(WIKI)**
+
 
 ### **<ins>Who are the founders of the company?</ins>**
 
-Cash App is operated by Block Inc. fomrally known as Square Inc. Block Inc. Cash App founders are Jack Dorsey and Jim McKelvey.**(WIKI)** Dorsey founded Block Inc. and McKelvey serves as the Cheif Technology Officer at Block Inc. and Cash App. **(BITKAN)**
+
+Cash App is operated by Block Inc. formerly known as Square Inc. Block Inc. Cash App founders are Jack Dorsey and Jim McKelvey.**(WIKI)** Dorsey founded Block Inc. and McKelvey serves as the Chief Technology Officer at Block Inc. and Cash App. **(BITKAN)**
 
 
 Notable Staff:
-   
- * Keith Rabois: 
+ 
+* Keith Rabois:
 Former COO/VP Engagement & Strategy Cash App
 
- * Tom Kakuei: 
- Former VP Engineering & Engagment, now EVP Strategic Initiatives for Cash App.
+
+* Tom Kakuei:
+Former VP Engineering & Engagement, now EVP Strategic Initiatives for Cash App.
+
 
 ### **<ins>How did the idea for the company (or project) come about?</ins>**
 
@@ -35,14 +38,15 @@ The concept of cost splitting was not new given the presence of Venmo as well as
 
 ### **<ins>How is the company funded? How much funding have they received?</ins>**
 
- 
- Their income is from users withdrawing funds from the app to their linked bank accounts. **(WIKI UNDER FINANCES)**. Furthermore, they primarly generate revenue by charging fees for specific transactions. They offer 2 types of deposits to their users, which includes standard and instant. **(CASHAPP WEBSITE)**
 
- * Standard Deposit:
-    * Free and can arrive 1-3 business says to their bank account.
- 
- * Instand Deposit:
-    * 0.5%-1.7% fee (with a minimum fee of $0.25) and is instant to their debit card.
+Their income is from users withdrawing funds from the app to their linked bank accounts. **(WIKI UNDER FINANCES)**. Furthermore, they primarily generate revenue by charging fees for specific transactions. They offer 2 types of deposits to their users, which includes standard and instant. **(CASH APP WEBSITE)**
+
+
+* Standard Deposit:
+   * Free and can arrive 1-3 business says to their bank account.
+* Instant Deposit:
+   * 0.5%-1.7% fee (with a minimum fee of $0.25) and is instant to their debit card.
+
 
 ## Business Activities
 
@@ -54,7 +58,7 @@ The concept of cost splitting was not new given the presence of Venmo as well as
  
  Cash App opened its services for it to be tailored to teens. However, both minors and adults can use the app. If a minor gets permission from their parent(s) they can gain access to more Cash App features, such as direct deposit, bitcoin, and stocks. 
  
- Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo. According to data from Pew Research Center, which was released in September of 2022, lower-income consumers was twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18%. **(PAYMENT DIVE)**
+ Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo. According to data from Pew Research Center, which was released in September of 2022, lower-income consumers were twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18%. **(PAYMENT DIVE)**
 
  Additionally, Pew Research Center discovered the usage of users by age group.
 
@@ -71,9 +75,11 @@ The concept of cost splitting was not new given the presence of Venmo as well as
 
 ### **<ins>What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)</ins>**
 
-Cash App beats its competitors by encouraging user loyalty and retention through its unique services. It also has a benefit by fostering relationships with its partner retailers, which provide users with exclusive deals and promotions. Overall, its reputation and user trust gives its a competitive edge over other competitors.
 
-**Note:** A user can choose to save your money on this platfom through the "Money" tab. It allows them to set savings goals and track again them.**(TIME)** Additionally, if a user has a Cash Card they can turn on the "Rounds Up" feature and saves changes for a user's purchase. That way they can purchase items while putting money on the side. **(TIMES)**
+Cash App beats its competitors by encouraging user loyalty and retention through its unique services. It also has a benefit by fostering relationships with its partner retailers, which provide users with exclusive deals and promotions. Overall, its reputation and user trust gives it a competitive edge over other competitors.
+
+
+**Note:** A user can choose to save your money on this platform through the "Money" tab. It allows them to set savings goals and track them again.**(TIME)** Additionally, if a user has a Cash Card they can turn on the "Rounds Up" feature and save changes for a user's purchase. That way they can purchase items while putting money on the side. **(TIMES)**
 
 
 ### **<ins>Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)</ins>**
