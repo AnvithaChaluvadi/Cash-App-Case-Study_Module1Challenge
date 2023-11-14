@@ -1,6 +1,10 @@
 #### Module 1 Challenge: Case Study
 # **[Cash App](https://cash.app/)**
-![ ](https://hiswillrecords.com/wp-content/uploads/2022/03/CashApp-NuDILIGENCE.gif) 
+
+
+<p align="center">
+ <img src ="https://hiswillrecords.com/wp-content/uploads/2022/03/CashApp-NuDILIGENCE.gif" width =65% height 30%=/>
+ </p>
 
 ## Overview and Origin
 ### **<ins>What is Cash App?</ins>**
@@ -16,7 +20,7 @@ Using [Cash App](https://cash.app/), users can send, receive, request, and inves
  </p>
 
 
-You can also use it to send and receive stocks and bitcoin. **(TIME)** Stocks can be purchased using one's funds in their Cash App balance. If their is insufficent funds in their Cash App balance, the remaining balance would be debited from their linked debit card. Additionally, stocks can be scheduled any time of the day (24/7), but would be placed during market hours. You can set up automatic purchaes of stock every day, a week, or 2 times a week.**(CASH APP)** 
+You can also use it to send and receive stocks and bitcoin. **(TIME)** Stocks can be purchased using one's funds in their Cash App balance. If there are insufficent funds in their Cash App balance, the remaining balance would be debited from their linked debit card. Additionally, stocks can be scheduled any time of the day (24/7), but would be placed during market hours. You can set up automatic purchaes of stock every day, a week, or 2 times a week.**(CASH APP)** 
 
  <p align="center">
  <img src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267706766-ZEFONB2M1XM0KZBECLTQ/image-asset.gif" width =60% height 30%=/>
