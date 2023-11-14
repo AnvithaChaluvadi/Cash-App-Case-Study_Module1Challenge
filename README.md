@@ -12,7 +12,7 @@
 
  
 
-Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement.
+Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement. Cash App is a financial service platform, but not a bank. Bank services are provided by Cash App's bank partners. **(CASH APP)**
 
 
  <p align="center">
