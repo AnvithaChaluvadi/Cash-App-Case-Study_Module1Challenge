@@ -8,6 +8,9 @@
 
 Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and receive stocks and bitcoin. **(TIME)** In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement.
 
+
+ <img align = "center" src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267673265-5E60M9BOLKWESXMELVHR/image-asset.gif" width = 40% height =30% > 
+
 It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. The platform is easy to use and gives a user-friendly interface. It allows them to access their investments quickly and efficiently on the go. Also, it provides its users a secure digital wallet to store their money. 
 
 It provides a wide range of features and capabilites that make it an ideal tool for managing one's finances.
@@ -86,7 +89,9 @@ Cash App beats its competitors by encouraging user loyalty and retention through
 
 
 ### **<ins>Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)</ins>**
+One of the the technologies that Cash App uses a secure encryption, specifically  Cash App is PCI Data Security (PCI-DSS) Level 1 compliant. **(CASH APP)** Cash App utilzes state-of-the-art encryption algorithms to protect user data and financial transactions. A user's payment information would be encrypted and be sent securly to Cash App's servers; even if they are using public/private WI-Fi or data (3G, 4G, etc.) it would still protect that sensitive information from unauthorized entities. **(CASH APP)**
 
+The second techology they utilize Cloud computing technology, specifically Google Cloud to handle immense computing demands of its applied AI efforts **(GOOGLE CLOUD)** 
 
 
 ## Landscape
@@ -149,6 +154,8 @@ https://cash.app/help/us/en-us/3073-cash-out-speed-options#:~:text=Cash%20App%20
 [6sense Cash App](https://6sense.com/company/cash-app/5c3b0252d55ae49f1b792ec3 ) (Q4)
 
 https://cloud.google.com/blog/products/ai-machine-learning/cash-app-uses-google-cloud-ai-nivida-gpus-to-power-mobile-payments (Q4)
+
+https://cash.app/help/us/en-us/5144-cash-app-security#:~:text=Cash%20App%20is%20PCI%20Data,as%203G%2C%204G%20and%20EDGE. (Q4)
 
 * Landscape
 * Results
