@@ -9,7 +9,10 @@
 Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and receive stocks and bitcoin. **(TIME)** In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement.
 
 
- <img align = "center" src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267673265-5E60M9BOLKWESXMELVHR/image-asset.gif" width = 40% height =30% > 
+ <p align="center">
+ <img src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267673265-5E60M9BOLKWESXMELVHR/image-asset.gif" width =40% height 30%=/>
+ </p>
+
 
 It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. The platform is easy to use and gives a user-friendly interface. It allows them to access their investments quickly and efficiently on the go. Also, it provides its users a secure digital wallet to store their money. 
 
@@ -89,9 +92,12 @@ Cash App beats its competitors by encouraging user loyalty and retention through
 
 
 ### **<ins>Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)</ins>**
+
+Cash App leverages several cutting-edge technolgies to provide seamless and a secure user experience. 
+
 One of the the technologies that Cash App uses a secure encryption, specifically  Cash App is PCI Data Security (PCI-DSS) Level 1 compliant. **(CASH APP)** Cash App utilzes state-of-the-art encryption algorithms to protect user data and financial transactions. A user's payment information would be encrypted and be sent securly to Cash App's servers; even if they are using public/private WI-Fi or data (3G, 4G, etc.) it would still protect that sensitive information from unauthorized entities. **(CASH APP)**
 
-The second techology they utilize Cloud computing technology, specifically Google Cloud to handle immense computing demands of its applied AI efforts **(GOOGLE CLOUD)** 
+The second techology they utilize Cloud computing technology, specifically Google Cloud to handle immense computing demands of its applied AI efforts **(GOOGLE CLOUD)** It allows them to handle large volumes of transactions and 
 
 
 ## Landscape
