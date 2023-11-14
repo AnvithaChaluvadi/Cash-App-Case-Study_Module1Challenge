@@ -7,7 +7,9 @@
 
 Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. You can also use it to send and receive stocks and bitcoin. **(TIME)** In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement.
 
-It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. It allows them to access their investments quickly and efficiently on the go.
+It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. The platform is easy to use and gives a user-friendly interface. It allows them to access their investments quickly and efficiently on the go. Also, it provides its users a secure digital wallet to store their money. 
+
+It provides a wide range of features and capabilites that make it an ideal tool for managing one's finances.
 
 
 ### **<ins>When was the company incorporated?</ins>**
