@@ -1,5 +1,9 @@
 #### Module 1 Challenge: Case Study
-# **[Cash App](https://cash.app/)**
+##### Anvitha Chaluvadi
+
+
+# **[Cash App](https://cash.app/)** 
+
 
 
 <p align="center">
@@ -12,23 +16,25 @@
 
  
 
-Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer. In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement. Cash App is a financial service platform, but not a bank. Bank services are provided by Cash App's bank partners. **(CASH APP)**
+Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer for free. In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement. "Cash App is a financial service platform, but not a bank. Bank services are provided by Cash App's bank partners." **(CASH APP)** A user can pay someone by their number, email, or their username ($cashtag). Additionally, they can scan their peer's QR code from the app. A user can see their balance automatically update as they make payments to confirm a payment going through.
 
 
- <p align="center">
- <img src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267673265-5E60M9BOLKWESXMELVHR/image-asset.gif" width =40% height 30%=/>
- </p>
+<p align="center">
+<img src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267673265-5E60M9BOLKWESXMELVHR/image-asset.gif" width =40% height 30%=/>
+</p>
 
 
-You can also use it to send and receive stocks and bitcoin. **(TIME)** Stocks can be purchased using one's funds in their Cash App balance. If there are insufficent funds in their Cash App balance, the remaining balance would be debited from their linked debit card. Additionally, stocks can be scheduled any time of the day (24/7), but would be placed during market hours. You can set up automatic purchaes of stock every day, a week, or 2 times a week.**(CASH APP)** 
+You can also use it to send and receive stocks and bitcoin. **(TIME)** Stocks can be purchased using one's funds in their Cash App balance. If there are insufficient funds in their Cash App balance, the remaining balance would be debited from their linked debit card. Additionally, stocks can be scheduled any time of the day (24/7), but would be placed during market hours. You can set up automatic purchases of stock every day, a week, or 2 times a week.**(CASH APP)**
 
- <p align="center">
- <img src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267706766-ZEFONB2M1XM0KZBECLTQ/image-asset.gif" width =60% height 30%=/>
- </p>
 
-It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. The platform is easy to use and gives a user-friendly interface. It allows them to access their investments quickly and efficiently on the go. Also, it provides its users a secure digital wallet to store their money. 
+<p align="center">
+<img src ="https://images.squarespace-cdn.com/content/v1/62f4893a27abcd6016069aca/1660267706766-ZEFONB2M1XM0KZBECLTQ/image-asset.gif" width =60% height 30%=/>
+</p>
 
-It provides a wide range of features and capabilites that make it an ideal tool for managing one's finances.
+
+It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. The platform is easy to use and gives a user-friendly interface. It allows them to access their investments quickly and efficiently on the go. Also, it provides its users a secure digital wallet to store their money.
+
+It provides a wide range of features and capabilities that make it an ideal tool for managing one's finances.
 
 
 ### **<ins>When was the company incorporated?</ins>**
@@ -39,6 +45,10 @@ It provides a wide range of features and capabilites that make it an ideal tool 
 
 
 Cash App is operated by Block Inc. formerly known as Square Inc. Block Inc. Cash App founders are Jack Dorsey and Jim McKelvey.**(WIKI)** Dorsey founded Block Inc. and McKelvey serves as the Chief Technology Officer at Block Inc. and Cash App. **(BITKAN)**
+<p align="center">
+<img src ="https://s29.q4cdn.com/628966176/files/design/nav_gif.gif" width =50% height 30%=/>
+</p>
+
 
 
 Notable Staff:
@@ -75,6 +85,10 @@ Their income is from users withdrawing funds from the app to their linked bank a
 
 > “Our competitors have seen that, and definitely take advantage of the fact that we have a gap specifically in outbound sales,” Dorsey said at the bank’s global technology, media and communications conference. “And we’re figuring out more of a balance there, and not being so stubborn about being technology-first and -focused.” **(PAYMENT DIVE)**
 
+>“We’re focused on providing financial support across communities, like the ability to share resources in a secure, inclusive, and traceable manner through advanced ML technologies,” said De Freitas. **(GOOGLE CLOUD)**
+
+Cash App and Block Inc. are furthering their efforst to create a more personalized service and smart tools that allow the general population to make better financial decisions through AI.
+
 ### **<ins>Who is the company's intended customer?  Is there any information about the market size of this set of customers?</ins>**
  
  Cash App opened its services for it to be tailored to teens. However, both minors and adults can use the app. If a minor gets permission from their parent(s) they can gain access to more Cash App features, such as direct deposit, bitcoin, and stocks. 
@@ -105,11 +119,25 @@ Cash App beats its competitors by encouraging user loyalty and retention through
 
 ### **<ins>Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)</ins>**
 
-Cash App leverages several cutting-edge technolgies to provide seamless and a secure user experience. 
+Cash App leverages several cutting-edge technologies to provide seamless and a secure user experience.
 
-One of the the technologies that Cash App uses a secure encryption, specifically  Cash App is PCI Data Security (PCI-DSS) Level 1 compliant. **(CASH APP)** Cash App utilzes state-of-the-art encryption algorithms to protect user data and financial transactions. A user's payment information would be encrypted and be sent securly to Cash App's servers; even if they are using public/private WI-Fi or data (3G, 4G, etc.) it would still protect that sensitive information from unauthorized entities. **(CASH APP)**
+One of the technologies that Cash App uses a secure encryption, specifically, Cash App is PCI Data Security (PCI-DSS) Level 1 compliant, which is the highest level of compliance and payment standards merchants can comply with to securely store, transmit, and process credit card information. **(CASH APP & ALL ABOUT COOKIES)** Cash App utilizes state-of-the-art encryption algorithms to protect user data and financial transactions. A user's payment information would be encrypted and be sent securely to Cash App's servers; even if they are using public/private WI-Fi or data (3G, 4G, etc.) it would still protect that sensitive information from unauthorized entities. **(CASH APP)** They also offer two-factor authentication.
 
-The second techology they utilize Cloud computing technology, specifically Google Cloud to handle immense computing demands of its applied AI efforts **(GOOGLE CLOUD)** It allows them to handle large volumes of transactions and 
+
+The second technology they utilize is cloud computing technology, specifically Google Cloud, and artificial intelligence (AI) research firm Dessa to strengthen "Cash App's existing solutions and drive innovation mechanisms to improve customer experience and increase accessibility to bank services." **(GOOGLE CLOUD)** They also "opted to use Google Cloud AI and machine learning (ML) solutions and NVIDIA's graphic processing units (GPUs) to handle the immense compute demands of its applied AI efforts." It allows them to handle large volumes of transactions and user requests, in order to ensure a smooth and interrupted user experience. In general it helps Block Inc.'s data scientist to carry out data-heavy, processing-intensive initiatives.
+
+
+The third technology is near-field communication (NFC). NFC enables users to make contactless payments by simply tapping their smartphones or their Cash Cards against payment terminals/readers. It offers a convenient method for in-person transactions. **(CASHAPP)**
+
+
+<p align="center">
+<img src ="https://images.squarespace-cdn.com/content/v1/54107bc9e4b0f7682188312b/1517598123680-BTQR5T3EIVMVBPWP8VFM/apple_pay.gif?format=1500w" width =40% height 30%=/>
+</p>
+
+
+Cash App utilizes and leverages these technologies to provide a seamless payment experience for its users.
+
+
 
 
 ## Landscape
@@ -121,7 +149,12 @@ Cash App is in the mobile payment services domain in the financial industry. **(
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
 * What are the other major companies in this domain?
-
+    
+ <p align="left">
+ <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1280px-PayPal.svg.png" width =20% height 10%=/>
+ </p>
+ * PayPal is a payment platform that allows you to send and recieve money around the world.
+        
 
 
 ## Results
@@ -174,6 +207,8 @@ https://cash.app/help/us/en-us/3073-cash-out-speed-options#:~:text=Cash%20App%20
 https://cloud.google.com/blog/products/ai-machine-learning/cash-app-uses-google-cloud-ai-nivida-gpus-to-power-mobile-payments (Q4)
 
 https://cash.app/help/us/en-us/5144-cash-app-security#:~:text=Cash%20App%20is%20PCI%20Data,as%203G%2C%204G%20and%20EDGE. (Q4)
+
+https://allaboutcookies.org/cash-app-scams#:~:text=Cash%20App%20uses%20encryption%20and,app%20offers%20two%2Dfactor%20authentication. (Q4)
 
 * Landscape
 * Results
