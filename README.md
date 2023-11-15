@@ -128,10 +128,8 @@ The second technology they utilize is cloud computing technology, specifically G
 
 
 The third technology is near-field communication (NFC). NFC enables users to make contactless payments by simply tapping their smartphones or their Cash Cards against payment terminals/readers. It offers a convenient method for in-person transactions. **(CASHAPP)**
-
-
 <p align="center">
-<img src ="https://images.squarespace-cdn.com/content/v1/54107bc9e4b0f7682188312b/1517598123680-BTQR5T3EIVMVBPWP8VFM/apple_pay.gif?format=1500w" width =40% height 30%=/>
+<img src ="https://images.squarespace-cdn.com/content/v1/54107bc9e4b0f7682188312b/1517598123680-BTQR5T3EIVMVBPWP8VFM/apple_pay.gif?format=1500w" width =30% height 30%=/>
 </p>
 
 
@@ -146,9 +144,10 @@ Cash App utilizes and leverages these technologies to provide a seamless payment
 
 Cash App is in the mobile payment services domain in the financial industry. **(WIKI)**
 
-* What have been the major trends and innovations of this domain over the last 5–10 years?
+### **<ins> What have been the major trends and innovations of this domain over the last 5–10 years?</ins>**
 
-* What are the other major companies in this domain?
+
+### **<ins>What are the other major companies in this domain?</ins>**
     
  <p align="left">
  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1280px-PayPal.svg.png" width =20% height 10%=/>
