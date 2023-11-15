@@ -131,7 +131,7 @@ The third technology is near-field communication (NFC). NFC enables users to mak
 
 
 <p align="center">
-<img src ="/Users/anvithachaluvadi/Documents/GW_FINTECH/Module1Challenge/images/apple_pay.gif" width =40% height 30%=/>
+<img src ="/Users/anvithachaluvadi/Documents/GW_FINTECH/Module1Challenge/images/apple_pay.gif" width =20% height 30%=/>
 </p>
 
 
@@ -152,10 +152,33 @@ Cash App is in the mobile payment services domain in the financial industry. **(
 
 ### **<ins>What are the other major companies in this domain?</ins>**
     
- <p align="left">
- <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1280px-PayPal.svg.png" width =20% height 10%=/>
+ <p align="center">
+ <img src ="https://cdn.dribbble.com/users/954572/screenshots/19914708/paypal-gif.gif" width =40% height 10%=/>
  </p>
+
  * PayPal is a payment platform that allows you to send and recieve money around the world.
+
+ <p align="center">
+ <img src ="https://mir-s3-cdn-cf.behance.net/project_modules/fs/3b56ed114295759.60384ed4e9c2c.gif" width =40% height 10%=/>
+ </p>
+ 
+ * Venmo owned by Paypal, is another platform...
+
+ <p align="center">
+ <img src ="https://mybank.com/wp-content/uploads/Intro_Zelle_GIF_NightOut_Q221.gif" width =40% height 10%=/>
+ </p>
+ 
+ * Zelle 
+ <p align="center">
+ <img src ="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Copy_of_06-00_Android_WalletFeatures_English_1h3OWpg.gif" width =40% height 10%=/>
+ </p>
+
+ * Google Wallet
+<p align="center">
+ <img src ="https://cdn.dribbble.com/users/541128/screenshots/3349890/applepay_dribbble.gif" width =40% height 10%=/>
+ </p>
+
+ * Apple Pay
         
 
 
