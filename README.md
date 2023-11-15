@@ -15,8 +15,7 @@
 ![](https://images.squarespace-cdn.com/content/v1/54107bc9e4b0f7682188312b/1517689855505-1PQU75BQNTUJUSJT4MOO/AD_v4.gif?format=1500w)
 
  
-
-Using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer for free. In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It provides a financial ecosystem that fosters user engagement. "Cash App is a financial service platform, but not a bank. Bank services are provided by Cash App's bank partners." **(CASH APP)** A user can pay someone by their number, email, or their username ($cashtag). Additionally, they can scan their peer's QR code from the app. A user can see their balance automatically update as they make payments to confirm a payment going through.
+By using [Cash App](https://cash.app/), users can send, receive, request, and invest money peer-to-peer for free. In general, it is a mobile payment platform that offers one a convenient and cashless way to handle financial transactions. It creates a financial ecosystem that fosters user engagement. "Cash App is a financial service platform, but not a bank. Bank services are provided by Cash App's bank partners." **(CASH APP)** A user can pay someone by their number, email, or their username ($cashtag). Additionally, they can scan their peer's QR code from the app directly. A user can see their balance automatically update as they make payments to confirm that their transactions have gone through.
 
 
 <p align="center">
@@ -44,7 +43,7 @@ It provides a wide range of features and capabilities that make it an ideal tool
 ### **<ins>Who are the founders of the company?</ins>**
 
 
-Cash App is operated by [Block Inc](https://block.xyz/). formerly known as Square Inc. It is based in San Francisco, California. Block Inc. Cash App founders are Jack Dorsey and Jim McKelvey.**(WIKI)** Dorsey founded Block Inc. and McKelvey serves as the Chief Technology Officer at Block Inc. and Cash App. **(BITKAN)**
+Cash App is operated and developed by [Block Inc](https://block.xyz/). formerly known as Square Inc. It was officially renamed in December, 2021. It is based in San Francisco, California. Block Inc. and Cash App founders are Jack Dorsey and Jim McKelvey.**(WIKI)** Dorsey founded Block Inc. and McKelvey serves as the Chief Technology Officer at Block Inc. and Cash App. **(BITKAN)**
 <p align="center">
 <img src ="https://s29.q4cdn.com/628966176/files/design/nav_gif.gif" width =50% height 30%=/>
 </p>
@@ -60,13 +59,9 @@ Cash App is operated by [Block Inc](https://block.xyz/). formerly known as Squar
    * As an entrepreneur, he has at least 7 companies that range from a CD cabinet maker to a glass blowing studio
 
 
-
-
 Notable Staff:
 * Keith Rabois:
 Former COO/VP Engagement & Strategy Cash App
-
-
 
 
 * Tom Kakuei:
@@ -76,7 +71,7 @@ Former VP Engineering & Engagement, now EVP Strategic Initiatives for Cash App.
 
 ### **<ins>How did the idea for the company (or project) come about?</ins>**
 
- The idea was created in 2013 during a company hackathon. It was developed with a purpose to make electronic payments between peers simple for things like splitting a bill at a restaurant or separating costs for an AirBnB rental.
+ The idea was created in 2013 during a company hackathon. It was developed with a purpose to make electronic payments between peers simple for things like splitting a bill at a restaurant or separating/sharing costs for an AirBnB rental.
 
 The concept of cost splitting was not new given the presence of Venmo as well as Google’s P2P payments functionality. Square’s product was not that sophisticated when it was initially introduced. **(FINTECH TAKES)**
 
@@ -91,6 +86,10 @@ Their income is from users withdrawing funds from the app to their linked bank a
 * Instant Deposit:
    * 0.5%-1.7% fee (with a minimum fee of $0.25) and is instant to their debit card.
 
+They can also generate revenue through its Cash Cards. A Cash Card is a physical or digital, if you choose to add it to your Apple Wallet, debit card that allows users to make purchases through their Cash App balance instead of their bank balance. Cash App earns 
+
+Additionally, they received external funding from various investors. They have raised a total of $1.9 billion and funding, "which saw profits rise 27% and 15%, respectively, from a year earlier." **(BBN BLOOMBERG)**
+
 
 ## Business Activities
 
@@ -100,7 +99,7 @@ Their income is from users withdrawing funds from the app to their linked bank a
 
 >“We’re focused on providing financial support across communities, like the ability to share resources in a secure, inclusive, and traceable manner through advanced ML technologies,” said De Freitas. **(GOOGLE CLOUD)**
 
-Cash App and Block Inc. are furthering their efforst to create a more personalized service and smart tools that allow the general population to make better financial decisions through AI.
+Cash App and Block Inc. are expanding efforts to develop services that are more personalized and provide the general population with tools that allow them to make more informed decisions through AI. 
 
 ### **<ins>Who is the company's intended customer?  Is there any information about the market size of this set of customers?</ins>**
  
@@ -163,6 +162,7 @@ Cash App is in the mobile payment services domain in the financial industry. **(
 ### **<ins> What have been the major trends and innovations of this domain over the last 5–10 years?</ins>**
 
 
+
 ### **<ins>What are the other major companies in this domain?</ins>**
     
  <p align="center">
@@ -172,7 +172,7 @@ Cash App is in the mobile payment services domain in the financial industry. **(
  * PayPal is a payment platform that allows you to send and recieve money around the world.
 
  <p align="center">
- <img src ="https://mir-s3-cdn-cf.behance.net/project_modules/fs/3b56ed114295759.60384ed4e9c2c.gif" width =40% height 10%=/>
+ <img src ="https://images.squarespace-cdn.com/content/v1/5afb255af7939254dd798bfd/1551923433422-R90BGJXE14358ITA4DRM/trip.gif" width =40% height 10%=/>
  </p>
  
  * Venmo owned by Paypal, is another platform...
@@ -198,6 +198,7 @@ Cash App is in the mobile payment services domain in the financial industry. **(
 ## Results
 
 * What has been the business impact of this company so far?
+
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -229,6 +230,12 @@ https://bitkan.com/learn/who-are-the-founders-of-cash-app-what-does-cash-app-loo
 
 https://cash.app/help/us/en-us/3073-cash-out-speed-options#:~:text=Cash%20App%20offers%20standard%20deposits,instantly%20to%20your%20debit%20card. (Q5).
 
+https://www.bnnbloomberg.ca/block-soars-on-boosted-adjusted-profit-outlook-as-cash-app-grows-1.1993336
+ (Q5)
+ 
+ https://s29.q4cdn.com/628966176/files/doc_financials/2023/q3/Block_3Q23_Shareholder-Letter.pdf (Q5)
+
+ https://www.investopedia.com/articles/company-insights/090916/how-square-cash-works-and-makes-money-sq.asp#:~:text=as%20an%20example.-,Cash%20App's%20Financials,and%20selling%20Bitcoin%20to%20customers. (Q5)
 
 
 
@@ -239,8 +246,6 @@ https://cash.app/help/us/en-us/3073-cash-out-speed-options#:~:text=Cash%20App%20
 [Oberlo - How Many People Use Cash App](https://www.oberlo.com/statistics/how-many-people-use-cash-app) (Q2)
 
 [FourWeekMBA - How Does Cash App Make Money](https://fourweekmba.com/how-does-cash-app-make-money/#:~:text=Competitive%20Advantage&text=%E2%80%93%20Positions%20Cash%20App%20as%20a,provide%20exclusive%20deals%20and%20promotions.) (Q3)
-
-[6sense Cash App](https://6sense.com/company/cash-app/5c3b0252d55ae49f1b792ec3 ) (Q4)
 
 https://cloud.google.com/blog/products/ai-machine-learning/cash-app-uses-google-cloud-ai-nivida-gpus-to-power-mobile-payments (Q4)
 
