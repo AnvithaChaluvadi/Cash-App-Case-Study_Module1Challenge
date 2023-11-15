@@ -97,9 +97,7 @@ Also, under Cash App’s business, its largest revenue generator is its Bitcoin 
 
 Additionally, they received external funding from various investors. They have raised a total of $1.9 billion and funding, "which saw profits rise 27% and 15%, respectively, from a year earlier." **(BBN BLOOMBERG)**
 
-<p align="center">
- <img src ="/Users/anvithachaluvadi/Documents/GW_FINTECH/Module1Challenge/images/ResultQ1.jpg" width =100% height 10%=/>
- </p>
+![](images/ResultQ1.png)
 
 ## Business Activities
 
