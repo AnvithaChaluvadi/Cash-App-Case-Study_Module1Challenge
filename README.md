@@ -143,7 +143,7 @@ The third technology is near-field communication (NFC). NFC enables users to mak
 
 
 <p align="center">
-<img src ="/Users/anvithachaluvadi/Documents/GW_FINTECH/Module1Challenge/images/apple_pay.gif" width =20% height 30%=/>
+<img src ="https://images.squarespace-cdn.com/content/v1/54107bc9e4b0f7682188312b/1517598109280-XR9J84QSL555UZRK3FZW/apple_pay2.gif?format=1500w" width =40% height 30%=/>
 </p>
 
 
