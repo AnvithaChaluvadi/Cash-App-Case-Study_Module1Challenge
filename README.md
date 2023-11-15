@@ -43,7 +43,7 @@ It provides a wide range of features and capabilities that make it an ideal tool
 ### **<ins>Who are the founders of the company?</ins>**
 
 
-Cash App is operated and developed by [Block Inc](https://block.xyz/). formerly known as Square Inc. It was officially renamed in December, 2021. It is based in San Francisco, California. Block Inc. and Cash App founders are Jack Dorsey and Jim McKelvey.**(WIKI)** Dorsey founded Block Inc. and McKelvey serves as the Chief Technology Officer at Block Inc. and Cash App. **(BITKAN)**
+Cash App is operated and developed by [Block Inc](https://block.xyz/). formerly known as Square Inc. It was officially renamed in December, 2021. It is based in San Francisco, California and it is "a leader in the financial technology industry"**(TIMES)**. Block Inc. and Cash App founders are Jack Dorsey and Jim McKelvey.**(WIKI)** Dorsey founded Block Inc. and McKelvey serves as the Chief Technology Officer at Block Inc. and Cash App. **(BITKAN)**
 <p align="center">
 <img src ="https://s29.q4cdn.com/628966176/files/design/nav_gif.gif" width =50% height 30%=/>
 </p>
@@ -78,18 +78,28 @@ The concept of cost splitting was not new given the presence of Venmo as well as
 ### **<ins>How is the company funded? How much funding have they received?</ins>**
 
 
-Their income is from users withdrawing funds from the app to their linked bank accounts. **(WIKI UNDER FINANCES)**. Furthermore, they primarily generate revenue by charging fees for specific transactions. They offer 2 types of deposits to their users, which includes standard and instant. **(CASH APP WEBSITE)**
+Their income is from users withdrawing funds from the app to their linked bank accounts. **(WIKI UNDER FINANCES)**. Furthermore, they primarily generate revenue by charging fees for specific transactions to businesses and individuals; it can be from subscription services and selling Bitcoin to customers. They offer 2 types of deposits to their users, which includes standard and instant. **(CASH APP WEBSITE)**
 
 
 * Standard Deposit:
-   * Free and can arrive 1-3 business says to their bank account.
-* Instant Deposit:
-   * 0.5%-1.7% fee (with a minimum fee of $0.25) and is instant to their debit card.
+  * Free and can arrive 1-3 business says to their bank account.
 
-They can also generate revenue through its Cash Cards. A Cash Card is a physical or digital, if you choose to add it to your Apple Wallet, debit card that allows users to make purchases through their Cash App balance instead of their bank balance. Cash App earns 
+
+* Instant Deposit:
+  * 0.5%-1.75% fee (with a minimum fee of $0.25) and is instant to their debit card. Sending from a credit card would be subject to a 3% fee.
+
+
+They can also generate revenue through its subscription services, such as Cash Cards. A Cash Card is a physical or digital, if you choose to add it to your Apple Wallet, debit card that allows users to make purchases through their Cash App balance instead of their bank balance.
+
+
+Also, under Cash App’s business, its largest revenue generator is its Bitcoin segment. There is a 1% to 4% in what Bitcoin exchanges and individuals pay for Bitcoin, in addition to a service fee that is charged for selling Bitcoin to its customers. Cash App factors these differences into the price it offers its users, generating additional revenue on the exchange it facilitates. **(INVESTOPEDIA)**
+
 
 Additionally, they received external funding from various investors. They have raised a total of $1.9 billion and funding, "which saw profits rise 27% and 15%, respectively, from a year earlier." **(BBN BLOOMBERG)**
 
+<p align="center">
+ <img src ="/Users/anvithachaluvadi/Documents/GW_FINTECH/Module1Challenge/images/ResultQ1.jpg" width =100% height 10%=/>
+ </p>
 
 ## Business Activities
 
@@ -103,7 +113,7 @@ Cash App and Block Inc. are expanding efforts to develop services that are more 
 
 ### **<ins>Who is the company's intended customer?  Is there any information about the market size of this set of customers?</ins>**
  
- Cash App opened its services for it to be tailored to teens. However, both minors and adults can use the app. If a minor gets permission from their parent(s) they can gain access to more Cash App features, such as direct deposit, bitcoin, and stocks. 
+ Cash App opened its services for it to be tailored to teens. However, both minors and adults can use the app. If a minor gets permission from their parent(s), they can gain access to more Cash App features, such as direct deposit, bitcoin, and stocks. 
  
  Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo. According to data from Pew Research Center, which was released in September of 2022, lower-income consumers were twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18%. **(PAYMENT DIVE)**
 
@@ -119,6 +129,9 @@ Cash App and Block Inc. are expanding efforts to develop services that are more 
     * 19% - 50 to 64 year olds
     * 9% - 65+ years olds 
 
+Cash App is available both in the U.S. and the U.K. When a user sends money between the U.K or the U.S. "Cash App will convert the payment from the origin currency to the destination currency based on the mid-market exchange rate at the time the payment is created" **(TIMES)**
+
+It was also designed for small businesses and eentrepreneurs to utilize. They can connect with customers by sharing their Cash App QR code, $Cashtag (username), email, or phone number associated with their account. Customers can use Cash App to pay businesses instantly. A business account, Cash for Business, can be created for free and would not need any hardware to process business payments. However, there is a fee for business transactions. Accounts do not pay fees for instant deposits to a business's checking account. **(TIMES)**
 
 ### **<ins>What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)</ins>**
 
@@ -169,30 +182,38 @@ Cash App is in the mobile payment services domain in the financial industry. **(
  <img src ="https://cdn.dribbble.com/users/954572/screenshots/19914708/paypal-gif.gif" width =40% height 10%=/>
  </p>
 
- * PayPal is a payment platform that allows you to send and recieve money around the world.
+ * [PayPal](https://www.paypal.com/) 
+   * PayPal is an online payment platform that allows you to send and receive money around the world. You can use PayPal to make purchases online with participating stores when you link to your bank account through a credit or debit card. PayPal can also serve as a middleman between your bank and merchants to keep you payment information secure. **(BANKRATE)** Additionally, you can use PayPal to securely send money to friends and family, and receive money from others. 
 
  <p align="center">
  <img src ="https://images.squarespace-cdn.com/content/v1/5afb255af7939254dd798bfd/1551923433422-R90BGJXE14358ITA4DRM/trip.gif" width =40% height 10%=/>
  </p>
  
- * Venmo owned by Paypal, is another platform...
+ * [Venmo](https://venmo.com/) 
+   * Venmo is a mobile app that makes peer-to-peer money transfers simple and inexpensive/free. Venmo is mobile-only. You cannot send or receive payments on a website/desktop computer, only through the app: even through iMessage. Venmo’s goal is to help those you need assistance on splitting checks and other situations. You can also use it to request money from people.  
 
  <p align="center">
  <img src ="https://mybank.com/wp-content/uploads/Intro_Zelle_GIF_NightOut_Q221.gif" width =40% height 10%=/>
  </p>
  
- * Zelle 
- <p align="center">
- <img src ="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Copy_of_06-00_Android_WalletFeatures_English_1h3OWpg.gif" width =40% height 10%=/>
- </p>
+ * [Zelle](https://www.zellepay.com/)
+   * Zelle is a peer-to-peer payment service, which allows users to digitally send money to each other. Over 1,000 banks and credit unions are partnered with Zelle. This service is also automatically included with the institution’s app. Zelle works by linking your checking or savings account and transferring money to another U.S. bank account. Neither payer or payee need to be in the same financial institution as long as it has Zelle. Users can send money from the institution’s app or the Zelle app; that money is automatically deposited within minutes into the recipient’s bank account that they linked their Zelle account to; there are no fees. However, it does not work with business debit cards, credit cards, international accounts, and gift cards. Some banks may allow you to set up a Zelle business account, but the bank might charge a small fee for a business using Zelle; also, consumers need to have Zelle in order to make payments.  
 
- * Google Wallet
 <p align="center">
  <img src ="https://cdn.dribbble.com/users/541128/screenshots/3349890/applepay_dribbble.gif" width =40% height 10%=/>
  </p>
 
- * Apple Pay
+ * [Apple Pay](https://www.apple.com/apple-pay/)
+   * Apple Pay provides a secure and an efficient way to make payments in any Apple device. Apple pay can also be used in iMessages for a business or extension. Users can quickly and securly provide payment, shipping, and contact information to check out. It is faster than other payment methods and checkout can be done by a single touch. Customers can complete their purchase just from simply clicking "Buy with Apple Pay" button.
         
+
+<p align="center">
+ <img src ="https://mir-s3-cdn-cf.behance.net/project_modules/max_316/d3dfcc105578543.606330d2c89de.gif" width =40% height 10%=/>
+ </p>
+
+ * [Google Pay](https://pay.google.com/about/)
+   * Google Pay is a mobile wallet and is most accesible for Android. You can use Google Pay to pay for items when you check out online, making purchases in-store, paying in-app purchases, or sending and receiving payments from others. When someone pays a user or receive cash-back rewards, The user's money is stored in their account account balanance, which can transfer into their bank account. You can also send and request money using the mobile app. You can use it to split a bill. In order to pay someone, you have to add money into your Google Pay Account. 
+       
 
 
 ## Results
@@ -254,5 +275,16 @@ https://cash.app/help/us/en-us/5144-cash-app-security#:~:text=Cash%20App%20is%20
 https://allaboutcookies.org/cash-app-scams#:~:text=Cash%20App%20uses%20encryption%20and,app%20offers%20two%2Dfactor%20authentication. (Q4)
 
 * Landscape
+
+https://www.bankrate.com/finance/credit-cards/guide-to-using-paypal/ (Q3)
+
+https://www.bankrate.com/finance/credit-cards/how-to-use-venmo/ (Q3)
+
+https://www.bankrate.com/banking/checking/how-to-use-zelle-beginners-guide-to-digital-payments/ (Q3)
+
+https://developer.apple.com/apple-pay/ (Q3)
+
+https://www.creditkarma.com/money/i/what-is-google-pay (Q3)
+
 * Results
 * Recommendations
