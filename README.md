@@ -44,26 +44,39 @@ It provides a wide range of features and capabilities that make it an ideal tool
 ### **<ins>Who are the founders of the company?</ins>**
 
 
-Cash App is operated by Block Inc. formerly known as Square Inc. Block Inc. Cash App founders are Jack Dorsey and Jim McKelvey.**(WIKI)** Dorsey founded Block Inc. and McKelvey serves as the Chief Technology Officer at Block Inc. and Cash App. **(BITKAN)**
+Cash App is operated by [Block Inc](https://block.xyz/). formerly known as Square Inc. It is based in San Francisco, California. Block Inc. Cash App founders are Jack Dorsey and Jim McKelvey.**(WIKI)** Dorsey founded Block Inc. and McKelvey serves as the Chief Technology Officer at Block Inc. and Cash App. **(BITKAN)**
 <p align="center">
 <img src ="https://s29.q4cdn.com/628966176/files/design/nav_gif.gif" width =50% height 30%=/>
 </p>
 
 
+* Jack Dorsey
+   * Dorsey is the CEO of Block Inc. Although, at the time, Dorsey owned Twitter, Cash App was not affiliated with it.
+   * As an entrepreneur, Dorsey started his first company, Block Inc, it was a mobile-payments company that provided credit-card transaction devices and software. By 2012, it had over two million users.
+
+
+* Jim McKelvey
+   * McKelvey co-founded Block Inc. with Dorsey after he had trouble selling a $2,000 art piece from his studio. He also co-founded Twitter alongside Dorsey. He owns 5% of Block and has a net income of $270 million from selling Block shares.
+   * As an entrepreneur, he has at least 7 companies that range from a CD cabinet maker to a glass blowing studio
+
+
+
 
 Notable Staff:
- 
 * Keith Rabois:
 Former COO/VP Engagement & Strategy Cash App
+
+
 
 
 * Tom Kakuei:
 Former VP Engineering & Engagement, now EVP Strategic Initiatives for Cash App.
 
 
+
 ### **<ins>How did the idea for the company (or project) come about?</ins>**
 
- It was created in 2013 during a company hackathon. It was developed with a purpose to make electronic payments between peers simple for things like splitting a bill at a restaurant or separating costs for an AirBnB rental.
+ The idea was created in 2013 during a company hackathon. It was developed with a purpose to make electronic payments between peers simple for things like splitting a bill at a restaurant or separating costs for an AirBnB rental.
 
 The concept of cost splitting was not new given the presence of Venmo as well as Google’s P2P payments functionality. Square’s product was not that sophisticated when it was initially introduced. **(FINTECH TAKES)**
 
