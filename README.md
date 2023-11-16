@@ -92,7 +92,7 @@ Their income is derived from users withdrawing funds from the app to their linke
 An additional revenue source is through its subscription services, such as Cash Cards. A Cash Card is a physical or digital debit card that allows users to make purchases directly linked to their Cash App balance instead of their bank balance. Cardholders also have the option to add the card to their Apple Wallet. 
 
 <p align="center">
-<img src ="https://images.squarespace-cdn.com/content/v1/54ceaa47e4b0b90ad0d67952/1114c834-5949-4b01-9bb1-a4b38c7dc692/2022Q1_B_Cash_Card_Animation_Line_Phase1_Customization_Light_MakeYourDebitCardYours_9x16.gif" width =20% height 30%=/>
+<img src ="https://images.squarespace-cdn.com/content/v1/54ceaa47e4b0b90ad0d67952/1114c834-5949-4b01-9bb1-a4b38c7dc692/2022Q1_B_Cash_Card_Animation_Line_Phase1_Customization_Light_MakeYourDebitCardYours_9x16.gif" width =40% height 30%=/>
 </p>
 
 
@@ -140,7 +140,7 @@ Small businesses and entrepreneurs are another target population that utilize Ca
 Cash App beats its competitors by encouraging user loyalty and retention through its unique services. It also has a benefit by fostering relationships with its partner retailers, which provide users with exclusive deals and promotions. Overall, its reputation and user trust gives it a competitive edge over other competitors.
 
 
-**Note:** A user can choose to save your money on this platform through the "Money" tab. It allows them to set savings goals and track them again.**(TIME)** Additionally, if a user has a Cash Card they can turn on the "Rounds Up" feature and save changes for a user's purchase. That way they can purchase items while putting money on the side. **(TIMES)**
+**Note:** A user can choose to save money on this platform through the "Money" tab. It allows them to set savings goals and track them.**(TIME)** Additionally, if a user has a Cash Card they can turn on the "Rounds Up" feature and save changes for a their purchase. Essentially, they can purchase items while putting money on the side. **(TIMES)**
 
 
 ### **<ins>Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)</ins>**
@@ -149,9 +149,9 @@ Cash App leverages several cutting-edge technologies to provide seamless and a s
 
 It utilizes state-of-the-art secure encryption algorithms to protect user data and their financial transactions. Cash App is a PCI Data Security (PCI-DSS) Level 1 compliant, which is the highest level of compliance and payment standards merchants can comply with to securely store, transmit, and process credit card information. **(CASH APP & ALL ABOUT COOKIES)** If users were to use public or private Wi-Fi or data (3G, 4G, etc.), then their data and sensitive information would be protected from unauthorized entities, as that information would be encrypted and sent securely to Cash App’s servers. As added protection, Cash App offers two-factor authentication.  
 
-Not only does Cash App use encryption. It also utilizes cloud computing technology, like Google Cloud, and artificial intelligence (AI) research firm Dessa to strengthen "Cash App's existing solutions and drive innovation mechanisms to improve customer experience and increase accessibility to bank services." **(GOOGLE CLOUD)**. They also "opted to use Google Cloud AI and machine learning (ML) solutions and NVIDIA's graphic processing units (GPUs) to handle the immense compute demands of its applied AI efforts." Essentially, they would be able to handle the large volume of transactions and user requests, ensuring a smooth and uninterrupted user experience. In turn, Block Inc.’s data scientist would be able to conduct data-heavy, processing-intensive initiatives. 
+Not only does Cash App use encryption. It also utilizes cloud computing technology, like Google Cloud, and artificial intelligence (AI) research firm Dessa to strengthen "Cash App's existing solutions and drive innovation mechanisms to improve customer experience and increase accessibility to bank services." **(GOOGLE CLOUD)**. Machine learning (ML) technology can help with the enhancement of products in areas of customer engagement, risk management, and more. By acquiring Dessa, they not only further their machine learning abilities, but improve their products and pass on benefits to customers around the world. They can support the Dessa team and other Square product teams by continuing to hire top ML and AI talent. They also "opted to use Google Cloud AI and machine learning (ML) solutions and NVIDIA's graphic processing units (GPUs) to handle the immense compute demands of its applied AI efforts." Essentially, they would be able to handle the large volume of transactions and user requests, ensuring a smooth and uninterrupted user experience. In turn, Block Inc.’s data scientist would be able to conduct data-heavy, processing-intensive initiatives. 
 
-The third technology is near-field communication (NFC). NFC enables users to make contactless payments by simply tapping their smartphones or their Cash Cards against payment terminals/readers. It offers a convenient method for in-person transactions. **(CASHAPP)**
+Another technology that Cash App uses is near-field communication (NFC). NFC enables users to make contactless payments by simply tapping their smartphones or their Cash Cards against payment terminals/readers, offering a convenient method for in-person transactions. **(CASHAPP)**
 
 
 <p align="center">
@@ -182,21 +182,21 @@ Cash App is in the mobile payment services domain in the financial industry. **(
  </p>
 
  * [PayPal](https://www.paypal.com/) 
-   * PayPal is an online payment platform that allows you to send and receive money around the world. You can use PayPal to make purchases online with participating stores when you link to your bank account through a credit or debit card. PayPal can also serve as a middleman between your bank and merchants to keep you payment information secure. **(BANKRATE)** Additionally, you can use PayPal to securely send money to friends and family, and receive money from others. 
+   * PayPal is an online payment platform that allows users to send and receive money around the world. PayPal facilitates the ability to make purchases online with participating stores when you link to your bank account through a credit or debit card. PayPal also possesses the role of middleman between your bank and merchants to keep you payment information secure. **(BANKRATE)** Additionally, you can use PayPal to securely send money to friends and family, and receive money from others. 
 
  <p align="center">
  <img src ="https://images.squarespace-cdn.com/content/v1/5afb255af7939254dd798bfd/1551923433422-R90BGJXE14358ITA4DRM/trip.gif" width =40% height 10%=/>
  </p>
  
  * [Venmo](https://venmo.com/) 
-   * Venmo is a mobile app that makes peer-to-peer money transfers simple and inexpensive/free. Venmo is mobile-only. You cannot send or receive payments on a website/desktop computer, only through the app: even through iMessage. Venmo’s goal is to help those who need assistance with splitting checks and other situations. You can also use it to request money from people.  
+   * Venmo is a mobile app that makes peer-to-peer money transfers simple and inexpensive or free. Venmo is mobile-only, preventing users from sending or receiving payments on a website or computer; Users can also use the app such purposes. Venmo’s goal is to help those who need assistance with splitting checks and other similar situations. You can also use it to request money from people.  
 
  <p align="center">
  <img src ="https://mybank.com/wp-content/uploads/Intro_Zelle_GIF_NightOut_Q221.gif" width =40% height 10%=/>
  </p>
  
  * [Zelle](https://www.zellepay.com/)
-   * Zelle is a peer-to-peer payment service, which allows users to digitally send money to each other. Over 1,000 banks and credit unions are partnered with Zelle. This service is also automatically included with the institution’s app. Zelle works by linking your checking or savings account and transferring money to another U.S. bank account. Neither payer or payee need to be in the same financial institution as long as it has Zelle. Users can send money from the institution’s app or the Zelle app; that money is automatically deposited within minutes into the recipient’s bank account that they linked to their Zelle account; there are no fees. However, it does not work with business debit cards, credit cards, international accounts, and gift cards. Some banks may allow you to set up a Zelle business account, but the bank might charge a small fee using Zelle; also, consumers need to have Zelle in order to make payments.  
+   * Zelle is a peer-to-peer payment service, allowing users to digitally send money to each other. Over 1,000 banks and credit unions are partnered with Zelle. This service is also automatically included with the institution’s app. Zelle works by linking your checking or savings account and transferring money to another U.S. bank account. Neither payer or payee need to be in the same financial institution as long as it has Zelle. Users can send money from the institution’s app or the Zelle app; that money is automatically deposited within minutes into the recipient’s bank account that they linked to their Zelle account; there are no fees. However, it does not work with business debit cards, credit cards, international accounts, and gift cards. Some banks may allow you to set up a Zelle business account, but the bank might charge a small fee using Zelle; also, consumers need to have Zelle in order to make payments.  
 
 <p align="center">
  <img src ="https://cdn.dribbble.com/users/541128/screenshots/3349890/applepay_dribbble.gif" width =40% height 10%=/>
@@ -211,7 +211,7 @@ Cash App is in the mobile payment services domain in the financial industry. **(
  </p>
 
  * [Google Pay](https://pay.google.com/about/)
-   * Google Pay is a mobile wallet and is most accessible for Android. You can use Google Pay to pay for items when you check out online, making purchases in-store, paying in-app purchases, or sending and receiving payments from others. When someone pays a user or receives cash-back rewards, the user's money is stored in their account balance, which can be transferred into their bank account. You can also send and request money using the mobile app. Also, you can use it to split a bill. In order to pay someone, you have to add money into your Google Pay Account. 
+   * Google Pay is a mobile wallet and is most accessible for Android. You can use Google Pay to pay for items when you check out online, making purchases in-store, paying in-app purchases, or sending and receiving payments from others. When someone pays a user or receives cash-back rewards, the user's money is stored in their account balance, which can then be transferred into their bank account. You can also send and request money using the mobile app. Also, you can use it to split a bill. In order to pay someone, you have to add money into your Google Pay Account. 
        
 
 
@@ -262,20 +262,21 @@ Adding international currency exchange feature will make it easier for clients t
 
 [Forbes - What is Cash Ap and How Does Tt Work?](https://www.forbes.com/advisor/money-transfer/what-is-cash-app/)
 
-https://bitkan.com/learn/who-are-the-founders-of-cash-app-what-does-cash-app-look-like-11714 (Q3)
+[BITKAN - Who are the Founder of Cash App? What Does Cash App Look Like?](https://bitkan.com/learn/who-are-the-founders-of-cash-app-what-does-cash-app-look-like-11714)
+ (Q3)
 
 [TIMES - What is Cash App and How Does It Work?](https://time.com/personal-finance/article/what-is-cash-app/#:~:text=It%20was%20launched%20in%202013,fees%20that%20usually%20accompany%20banking.) (Q1)
 
 [Fintech Takes - Cash App is Culture](https://newsletter.fintechtakes.com/p/cash-app ) (Q4)
 
-https://cash.app/help/us/en-us/3073-cash-out-speed-options#:~:text=Cash%20App%20offers%20standard%20deposits,instantly%20to%20your%20debit%20card. (Q5).
+[Cash App - Cash Out Speed Options](https://cash.app/help/us/en-us/3073-cash-out-speed-options#:~:text=Cash%20App%20offers%20standard%20deposits,instantly%20to%20your%20debit%20card.) (Q5).
 
-https://www.bnnbloomberg.ca/block-soars-on-boosted-adjusted-profit-outlook-as-cash-app-grows-1.1993336
+[BBN Bloomberg - Block Soars on Boosted Adjusted Profit Outlook as Cash App Grows](https://www.bnnbloomberg.ca/block-soars-on-boosted-adjusted-profit-outlook-as-cash-app-grows-1.1993336)
  (Q5)
  
- https://s29.q4cdn.com/628966176/files/doc_financials/2023/q3/Block_3Q23_Shareholder-Letter.pdf (Q5)
+[Block Q3 2023 Shareholder Letter](https://s29.q4cdn.com/628966176/files/doc_financials/2023/q3/Block_3Q23_Shareholder-Letter.pdf) (Q5)
 
- https://www.investopedia.com/articles/company-insights/090916/how-square-cash-works-and-makes-money-sq.asp#:~:text=as%20an%20example.-,Cash%20App's%20Financials,and%20selling%20Bitcoin%20to%20customers. (Q5)
+ [Investopedia - How Cash App Makes Money](https://www.investopedia.com/articles/company-insights/090916/how-square-cash-works-and-makes-money-sq.asp#:~:text=as%20an%20example.-,Cash%20App's%20Financials,and%20selling%20Bitcoin%20to%20customers.) (Q5)
 
 
 
@@ -287,23 +288,25 @@ https://www.bnnbloomberg.ca/block-soars-on-boosted-adjusted-profit-outlook-as-ca
 
 [FourWeekMBA - How Does Cash App Make Money](https://fourweekmba.com/how-does-cash-app-make-money/#:~:text=Competitive%20Advantage&text=%E2%80%93%20Positions%20Cash%20App%20as%20a,provide%20exclusive%20deals%20and%20promotions.) (Q3)
 
-https://cloud.google.com/blog/products/ai-machine-learning/cash-app-uses-google-cloud-ai-nivida-gpus-to-power-mobile-payments (Q4)
+[Google Cloud - Cash App uses Google Cloud to power mobile payments innovation and research](https://cloud.google.com/blog/products/ai-machine-learning/cash-app-uses-google-cloud-ai-nivida-gpus-to-power-mobile-payments) (Q4)
 
-https://cash.app/help/us/en-us/5144-cash-app-security#:~:text=Cash%20App%20is%20PCI%20Data,as%203G%2C%204G%20and%20EDGE. (Q4)
+[Square - Welcoming the Dessa Team to Square](https://squareup.com/us/en/press/dessa-joins-square) (Q4)
 
-https://allaboutcookies.org/cash-app-scams#:~:text=Cash%20App%20uses%20encryption%20and,app%20offers%20two%2Dfactor%20authentication. (Q4)
+[Cash App - Cash App Security](https://cash.app/help/us/en-us/5144-cash-app-security#:~:text=Cash%20App%20is%20PCI%20Data,as%203G%2C%204G%20and%20EDGE.) (Q4)
+
+[All About COOKIES - How To Protect Yourself Against Cash App Scams](https://allaboutcookies.org/cash-app-scams#:~:text=Cash%20App%20uses%20encryption%20and,app%20offers%20two%2Dfactor%20authentication.) (Q4)
 
 * Landscape
 
-https://www.bankrate.com/finance/credit-cards/guide-to-using-paypal/ (Q3)
+[Bankrate - What is PayPal? A complete guide](https://www.bankrate.com/finance/credit-cards/guide-to-using-paypal/) (Q3)
 
-https://www.bankrate.com/finance/credit-cards/how-to-use-venmo/ (Q3)
+[Bankrate - Guide to using Venmo](https://www.bankrate.com/finance/credit-cards/how-to-use-venmo/) (Q3)
 
-https://www.bankrate.com/banking/checking/how-to-use-zelle-beginners-guide-to-digital-payments/ (Q3)
+[Bankrate - How to use Zelle: A beginner’s guide to digital payments](https://www.bankrate.com/banking/checking/how-to-use-zelle-beginners-guide-to-digital-payments/) (Q3)
 
-https://developer.apple.com/apple-pay/ (Q3)
+[Apple Developer - Apple Pay](https://developer.apple.com/apple-pay/) (Q3)
 
-https://www.creditkarma.com/money/i/what-is-google-pay (Q3)
+[Intuit Credit Karma - What is Google Pay and how does it work?](https://www.creditkarma.com/money/i/what-is-google-pay) (Q3)
 
 * Results
 * Recommendations
