@@ -239,22 +239,9 @@ Cash App is in the mobile payment services domain in the financial industry. **(
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-  
-  Cash App should work on international transfers like Venmo.
+As a peer-to-peer mobile apps that do money transfers will have a digital wallet. Consumers deposit money in those wallets. Money gets transferred from those wallets to recipients within the nation and abroad. An application programming interface is used between two computer programs to communicate with each other. This enables the transfer of funds. It also uses safety features, like encryption, uses authentication, authorization, and online ID checks. International transfers could be done by adding an intergrated currency exchange feature. Cash App should work on international transfers, such as PayPal to increase their client base and profits. This could be done by adding an intergrated currency exchange feature. 
 
 
-* Why do you think that offering this product or service would benefit the company?
-
-The international transfers will increase their client base and inturn their profits. 
-
-* What technologies would this additional product or service utilize?
-
-This could be done by using or adding an internatinal currency exchange feature in their app. 
-
-* Why are these technologies appropriate for your solution?
-
-Adding international currency exchange feature will make it easier for clients to transfer money outside of the U.S. to all other countries in the world. 
 ## Resources
 * Overview and Origin
 
@@ -310,3 +297,6 @@ Adding international currency exchange feature will make it easier for clients t
 
 * Results
 * Recommendations
+https://www.intellectsoft.net/blog/how-to-create-a-money-transfer-app-step-by-step-guide/
+
+
