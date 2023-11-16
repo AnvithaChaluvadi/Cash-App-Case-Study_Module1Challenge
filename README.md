@@ -56,7 +56,7 @@ Cash App is operated and developed by [Block Inc](https://block.xyz/). formerly 
 
 * Jim McKelvey
    * McKelvey co-founded Block Inc. with Dorsey after he had trouble selling a $2,000 art piece from his studio. He also co-founded Twitter alongside Dorsey. He owns 5% of Block and has a net income of $270 million from selling Block shares.
-   * As an entrepreneur, he has at least 7 companies that range from a CD cabinet maker to a glass blowing studio
+   * As an entrepreneur, he has at least 7 companies that range from a CD cabinet maker to a glass blowing studio.
 
 
 Notable Staff:
@@ -65,7 +65,7 @@ Former COO/VP Engagement & Strategy Cash App
 
 
 * Tom Kakuei:
-Former VP Engineering & Engagement, now EVP Strategic Initiatives for Cash App.
+Former VP Engineering & Engagement, now EVP Strategic Initiatives for Cash App
 
 
 
@@ -78,7 +78,9 @@ The concept of cost splitting was not new given the presence of Venmo as well as
 ### **<ins>How is the company funded? How much funding have they received?</ins>**
 
 
-Their income is derived from users withdrawing funds from the app to their linked bank accounts. **(WIKI UNDER FINANCES)**. Furthermore, Cash App primarily generates revenue by charging fees for transactions specific to businesses and individuals, such as subscription services and selling Bitcoin to customers. They offer 2 types of deposits to their users, which includes standard and instant. **(CASH APP WEBSITE)**
+Their income is derived from users withdrawing funds from the app to their linked bank accounts. **(WIKI UNDER FINANCES)**. Furthermore, Cash App primarily generates revenue by charging fees for transactions specific to businesses and individuals, such as subscription services and selling Bitcoin to customers. So, in general, they are funded by their own income.
+
+They offer 2 types of deposits to their users, which includes standard and instant. **(CASH APP WEBSITE)**
 
 
 * Standard Deposit:
@@ -89,8 +91,7 @@ Their income is derived from users withdrawing funds from the app to their linke
   * 0.5%-1.75% fee (with a minimum fee of $0.25) and is instant to their debit card. Sending from a credit card would be subject to a 3% fee.
 
 
-An additional revenue source is through its subscription services, such as Cash Cards. A Cash Card is a physical or digital debit card that allows users to make purchases directly linked to their Cash App balance instead of their bank balance. Cardholders also have the option to add the card to their Apple Wallet. According to Block's shareholder letter, "Cash App Card reached 22 million monthly actives as of September, with approximately 30% of those transacting
-on any given day."
+An additional revenue source is through its subscription services, such as Cash Cards. A Cash Card is a physical or digital debit card that allows users to make purchases directly linked to their Cash App balance instead of their bank balance. It is also customizable. Cardholders have the option to add the card to their Apple Wallet. According to Block's shareholder letter, "Cash App Card reached 22 million monthly actives as of September, with approximately 30% of those transacting on any given day."
 
 <p align="center">
 <img src ="https://images.squarespace-cdn.com/content/v1/54ceaa47e4b0b90ad0d67952/1114c834-5949-4b01-9bb1-a4b38c7dc692/2022Q1_B_Cash_Card_Animation_Line_Phase1_Customization_Light_MakeYourDebitCardYours_9x16.gif" width =40% height 30%=/>
@@ -100,18 +101,23 @@ on any given day."
 Cash App's largest revenue generator is its Bitcoin segment. Not only is there a 1% to 4% in what Bitcoin exchanges and individuals pay for Bitcoin, but there is a service fee that is charged for selling Bitcoin to its customers. Cash App is able to generate additional revenue on the exchange it facilitates by factoring these differences into the price it offers its users. **(INVESTOPEDIA)**
 
 
-Additionally, they received external funding from various investors. They have raised a gross profit of $1.9 billion year over year, "which saw profits rise 27% and 15%, respectively, from a year earlier." **(BBN BLOOMBERG)** Moreover, they earned $3.58 billion in revenue and 948 million in gross profit. 
+Additionally, they received external funding from various investors, such as Blockchain R&I.
 
-<p align="center">
-<img src = images/ResultQ1_1.png width =90% height 30%=/>
-</p>
-<p align="center">
-<img src = images/ResultQ1_2.png width =90% height 30%=/>
-</p>
+
+Overall, these funding sources further expanded their growth and success of Cash App.
 
 ## Business Activities
 
 ### **<ins>What specific financial problem is the company or project trying to solve?</ins>**
+
+ Cash App aims to solve various problems from both individuals and businesses. It simplifies multiple financial processes, in order to make it a convinent option for sending and receiving payments. 
+
+  Cash App eliminated fees and created a fee-free enviornment than what a traditional bank insitution would, which then attracted more users who were looking to save on banking and payment fees. 
+
+  It elimintated the need to carry physical cash because you could send and receive cash instantly. Also, it reduces the risk of losing cash and having your cash stolen. 
+
+
+
 
 
 
@@ -143,9 +149,6 @@ Small businesses and entrepreneurs are another target population that utilize Ca
 Cash App beats its competitors by encouraging user loyalty and retention through its unique services. It also has a benefit by fostering relationships with its partner retailers, which provide users with exclusive deals and promotions. Overall, its reputation and user trust gives it a competitive edge over other competitors.
 
 
-**Note:** A user can choose to save money on this platform through the "Money" tab. It allows them to set savings goals and track them.**(TIME)** Additionally, if a user has a Cash Card they can turn on the "Rounds Up" feature and save changes for a their purchase. Essentially, they can purchase items while putting money on the side. **(TIMES)**
-
-
 ### **<ins>Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)</ins>**
 
 Cash App leverages several cutting-edge technologies to provide seamless and a secure user experience.
@@ -172,7 +175,7 @@ Cash App utilizes and leverages these technologies to provide a seamless payment
 
 ### **<ins> What domain of the financial industry is the company in?</ins>**
 
-Cash App is in the mobile payment services domain in the financial industry. **(WIKI)**
+Cash App is in the mobile payment services domain in the financial industry. It allows users to send, receive, and store money electronically using their smartphones. Cash App has gained popularity amongst individuals, businesses, and freelancers because of its user-friendly interface and seamless functionality. These groups consider the app as a convenient and efficient way to handle financial transactions. Cash App has become a significant player in the mobile payment services sector of the financial industry. The fact that it provides a platform for peer-to-peer money transfers, Cash App has revolutionized one’s ability to manage one’s finances.**(WIKI)**
 
 ### **<ins> What have been the major trends and innovations of this domain over the last 5–10 years?</ins>**
 
@@ -220,7 +223,21 @@ Cash App is in the mobile payment services domain in the financial industry. **(
 
 ## Results
 
-* What has been the business impact of this company so far?
+### **<ins> What has been the business impact of this company so far? </ins>**
+
+They have raised a gross profit of $1.9 billion year over year, "which saw profits rise 27% and 15%, respectively, from a year earlier." **(BBN BLOOMBERG)** Moreover, they earned $3.58 billion in revenue and $948 million in gross profit. 
+
+<p align="center">
+<img src = images/ResultQ1_1.png width =90% height 30%=/>
+</p>
+<p align="center">
+<img src = images/ResultQ1_2.png width =90% height 30%=/>
+</p>
+
+words
+<p align="center">
+<img src = images/ResultQ1_3.png width =80% height 30%=/>
+</p>
 
 
 ### **<ins> What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?</ins>**
@@ -234,10 +251,14 @@ Cash App is in the mobile payment services domain in the financial industry. **(
    * Adjusted Operating Income (Loss) margin
    * constant currency
    * Adjusted Free Cash Flow
-   * non-GAAP operating expenses as well as other measures defined in this letter such as measures excluding bitcoin revenue, measures excluding gross profit contributions from our BNPL platform, and measures excluding PPP loan forgiveness gross profit. 
+   * "non-GAAP operating expenses as well as other measures defined in this letter such as measures excluding bitcoin revenue, measures excluding gross profit contributions from our BNPL platform, and measures excluding PPP loan forgiveness gross profit."
 
 
-* How is your company performing relative to competitors in the same domain?
+
+
+### **<ins> How is your company performing relative to competitors in the same domain?</ins>**
+
+"Overall, Cash App and its competitors have raised over $4.26B in funding across 116 funding rounds involving 405 investors."
 
 
 ## Recommendations
@@ -263,11 +284,11 @@ As a peer-to-peer mobile apps that do money transfers will have a digital wallet
 
 [BBN Bloomberg - Block Soars on Boosted Adjusted Profit Outlook as Cash App Grows](https://www.bnnbloomberg.ca/block-soars-on-boosted-adjusted-profit-outlook-as-cash-app-grows-1.1993336)
  (Q5)
- 
-[Block Q3 2023 Shareholder Letter](https://s29.q4cdn.com/628966176/files/doc_financials/2023/q3/Block_3Q23_Shareholder-Letter.pdf) (Q5)
+
 
  [Investopedia - How Cash App Makes Money](https://www.investopedia.com/articles/company-insights/090916/how-square-cash-works-and-makes-money-sq.asp#:~:text=as%20an%20example.-,Cash%20App's%20Financials,and%20selling%20Bitcoin%20to%20customers.) (Q5)
 
+ [Tracxn - Cash App Company Profile](https://tracxn.com/d/companies/cash-app/__8YK1ffUaoSlOaN5UES7-QIP04BHuOnYPAUPF3XBzOt0)(Q5)
 
 
 * Business Activities
@@ -299,6 +320,9 @@ As a peer-to-peer mobile apps that do money transfers will have a digital wallet
 [Intuit Credit Karma - What is Google Pay and how does it work?](https://www.creditkarma.com/money/i/what-is-google-pay) (Q3)
 
 * Results
+
+[Block Q3 2023 Shareholder Letter](https://s29.q4cdn.com/628966176/files/doc_financials/2023/q3/Block_3Q23_Shareholder-Letter.pdf) (Q1)
+
 * Recommendations
 
 [Intellect - How to Create a Money Transfer App – Step-by-Step Guide](https://www.intellectsoft.net/blog/how-to-create-a-money-transfer-app-step-by-step-guide/)
