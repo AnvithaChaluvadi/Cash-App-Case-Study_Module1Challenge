@@ -89,7 +89,8 @@ Their income is derived from users withdrawing funds from the app to their linke
   * 0.5%-1.75% fee (with a minimum fee of $0.25) and is instant to their debit card. Sending from a credit card would be subject to a 3% fee.
 
 
-An additional revenue source is through its subscription services, such as Cash Cards. A Cash Card is a physical or digital debit card that allows users to make purchases directly linked to their Cash App balance instead of their bank balance. Cardholders also have the option to add the card to their Apple Wallet. 
+An additional revenue source is through its subscription services, such as Cash Cards. A Cash Card is a physical or digital debit card that allows users to make purchases directly linked to their Cash App balance instead of their bank balance. Cardholders also have the option to add the card to their Apple Wallet. According to Block's shareholder letter, "Cash App Card reached 22 million monthly actives as of September, with approximately 30% of those transacting
+on any given day."
 
 <p align="center">
 <img src ="https://images.squarespace-cdn.com/content/v1/54ceaa47e4b0b90ad0d67952/1114c834-5949-4b01-9bb1-a4b38c7dc692/2022Q1_B_Cash_Card_Animation_Line_Phase1_Customization_Light_MakeYourDebitCardYours_9x16.gif" width =40% height 30%=/>
@@ -99,18 +100,20 @@ An additional revenue source is through its subscription services, such as Cash 
 Cash App's largest revenue generator is its Bitcoin segment. Not only is there a 1% to 4% in what Bitcoin exchanges and individuals pay for Bitcoin, but there is a service fee that is charged for selling Bitcoin to its customers. Cash App is able to generate additional revenue on the exchange it facilitates by factoring these differences into the price it offers its users. **(INVESTOPEDIA)**
 
 
-Additionally, they received external funding from various investors. They have raised a total of $1.9 billion in funding, "which saw profits rise 27% and 15%, respectively, from a year earlier." **(BBN BLOOMBERG)**
+Additionally, they received external funding from various investors. They have raised a gross profit of $1.9 billion year over year, "which saw profits rise 27% and 15%, respectively, from a year earlier." **(BBN BLOOMBERG)** Moreover, they earned $3.58 billion in revenue and 948 million in gross profit. 
 
-![](images/ResultQ1.png)
+<p align="center">
+<img src = images/ResultQ1_1.png width =90% height 30%=/>
+</p>
+<p align="center">
+<img src = images/ResultQ1_2.png width =90% height 30%=/>
+</p>
 
 ## Business Activities
 
 ### **<ins>What specific financial problem is the company or project trying to solve?</ins>**
 
-> “Our competitors have seen that, and definitely take advantage of the fact that we have a gap specifically in outbound sales,” Dorsey said at the bank’s global technology, media and communications conference. “And we’re figuring out more of a balance there, and not being so stubborn about being technology-first and -focused.” **(PAYMENT DIVE)**
 
-
-Cash App and Block Inc. are expanding efforts to develop services that are more personalized and provide the general population with tools that allow them to make more informed decisions through AI. 
 
 ### **<ins>Who is the company's intended customer?  Is there any information about the market size of this set of customers?</ins>**
  
@@ -297,6 +300,7 @@ As a peer-to-peer mobile apps that do money transfers will have a digital wallet
 
 * Results
 * Recommendations
-https://www.intellectsoft.net/blog/how-to-create-a-money-transfer-app-step-by-step-guide/
+
+[Intellect - How to Create a Money Transfer App – Step-by-Step Guide](https://www.intellectsoft.net/blog/how-to-create-a-money-transfer-app-step-by-step-guide/)
 
 
