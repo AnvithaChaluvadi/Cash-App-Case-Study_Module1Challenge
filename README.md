@@ -23,7 +23,7 @@ By using [Cash App](https://cash.app/), users can send, receive, request, and in
 </p>
 
 
-You can also use it to send and receive stocks and bitcoin. **(TIME)** Stocks can be purchased using one's funds in their Cash App balance. If there are insufficient funds in their Cash App balance, the remaining balance would be debited from their linked debit card. Additionally, stocks can be scheduled any time of the day (24/7), but would be placed during market hours. You can set up automatic purchases of stock every day, a week, or 2 times a week.**(CASH APP)**
+Not only is Cash App used for personal transactions, you can also use it to send and receive stocks and bitcoin. **(TIME)** One can purchase stocks using one's funds in their Cash App balance. If there are insufficient funds in their Cash App balance, the remaining balance would be debited from their linked debit card. Additionally, stocks can be scheduled any time of the day (24/7), but would be completed during market hours. You can set up automatic purchases of stock every day, every week, or 2 times a week.**(CASH APP)**
 
 
 <p align="center">
@@ -31,13 +31,13 @@ You can also use it to send and receive stocks and bitcoin. **(TIME)** Stocks ca
 </p>
 
 
-It makes it easier for one to manage their money without having to go through a bank, which can be time consuming and expensive due to fees. The platform is easy to use and gives a user-friendly interface. It allows them to access their investments quickly and efficiently on the go. Also, it provides its users a secure digital wallet to store their money.
+Rather than dealing with the time-consuming nature and expensive fee of a bank. Cash App makes it easier for one to manage their money. The platform is easy to use and provides a user-friendly interface. It allows them to access their investments quickly and efficiently on the go. Also, it provides its users with a secure digital wallet to store their money.
 
-It provides a wide range of features and capabilities that make it an ideal tool for managing one's finances.
+Given its wide range of features and capabilities, Cash App is ideal tool for managing one's finances.
 
 
 ### **<ins>When was the company incorporated?</ins>**
- The company was incorporated on October 15, 2013. It was formerly known as Square Cash before it was Cash App. **(WIKI)**
+ The company was incorporated on October 15, 2013. It was formerly known as Square Cash before it became Cash App. **(WIKI)**
 
 
 ### **<ins>Who are the founders of the company?</ins>**
@@ -78,7 +78,7 @@ The concept of cost splitting was not new given the presence of Venmo as well as
 ### **<ins>How is the company funded? How much funding have they received?</ins>**
 
 
-Their income is from users withdrawing funds from the app to their linked bank accounts. **(WIKI UNDER FINANCES)**. Furthermore, they primarily generate revenue by charging fees for specific transactions to businesses and individuals; it can be from subscription services and selling Bitcoin to customers. They offer 2 types of deposits to their users, which includes standard and instant. **(CASH APP WEBSITE)**
+Their income is derived from users withdrawing funds from the app to their linked bank accounts. **(WIKI UNDER FINANCES)**. Furthermore, Cash App primarily generates revenue by charging fees for transactions specific to businesses and individuals, such as subscription services and selling Bitcoin to customers. They offer 2 types of deposits to their users, which includes standard and instant. **(CASH APP WEBSITE)**
 
 
 * Standard Deposit:
@@ -89,13 +89,17 @@ Their income is from users withdrawing funds from the app to their linked bank a
   * 0.5%-1.75% fee (with a minimum fee of $0.25) and is instant to their debit card. Sending from a credit card would be subject to a 3% fee.
 
 
-They can also generate revenue through its subscription services, such as Cash Cards. A Cash Card is a physical or digital, if you choose to add it to your Apple Wallet, debit card that allows users to make purchases through their Cash App balance instead of their bank balance.
+An additional revenue source is through its subscription services, such as Cash Cards. A Cash Card is a physical or digital debit card that allows users to make purchases directly linked to their Cash App balance instead of their bank balance. Cardholders also have the option to add the card to their Apple Wallet. 
+
+<p align="center">
+<img src ="https://images.squarespace-cdn.com/content/v1/54ceaa47e4b0b90ad0d67952/1114c834-5949-4b01-9bb1-a4b38c7dc692/2022Q1_B_Cash_Card_Animation_Line_Phase1_Customization_Light_MakeYourDebitCardYours_9x16.gif" width =20% height 30%=/>
+</p>
 
 
-Also, under Cash App’s business, its largest revenue generator is its Bitcoin segment. There is a 1% to 4% in what Bitcoin exchanges and individuals pay for Bitcoin, in addition to a service fee that is charged for selling Bitcoin to its customers. Cash App factors these differences into the price it offers its users, generating additional revenue on the exchange it facilitates. **(INVESTOPEDIA)**
+Cash App's largest revenue generator is its Bitcoin segment. Not only is there a 1% to 4% in what Bitcoin exchanges and individuals pay for Bitcoin, but there is a service fee that is charged for selling Bitcoin to its customers. Cash App is able to generate additional revenue on the exchange it facilitates by factoring these differences into the price it offers its users. **(INVESTOPEDIA)**
 
 
-Additionally, they received external funding from various investors. They have raised a total of $1.9 billion and funding, "which saw profits rise 27% and 15%, respectively, from a year earlier." **(BBN BLOOMBERG)**
+Additionally, they received external funding from various investors. They have raised a total of $1.9 billion in funding, "which saw profits rise 27% and 15%, respectively, from a year earlier." **(BBN BLOOMBERG)**
 
 ![](images/ResultQ1.png)
 
@@ -105,15 +109,14 @@ Additionally, they received external funding from various investors. They have r
 
 > “Our competitors have seen that, and definitely take advantage of the fact that we have a gap specifically in outbound sales,” Dorsey said at the bank’s global technology, media and communications conference. “And we’re figuring out more of a balance there, and not being so stubborn about being technology-first and -focused.” **(PAYMENT DIVE)**
 
->“We’re focused on providing financial support across communities, like the ability to share resources in a secure, inclusive, and traceable manner through advanced ML technologies,” said De Freitas. **(GOOGLE CLOUD)**
 
 Cash App and Block Inc. are expanding efforts to develop services that are more personalized and provide the general population with tools that allow them to make more informed decisions through AI. 
 
 ### **<ins>Who is the company's intended customer?  Is there any information about the market size of this set of customers?</ins>**
  
- Cash App opened its services for it to be tailored to teens. However, both minors and adults can use the app. If a minor gets permission from their parent(s), they can gain access to more Cash App features, such as direct deposit, bitcoin, and stocks. 
+ Cash App initially developed its services tailoring it to teen demographic. However, today, minors and adults use the app. If a minor obtains permission from their parent(s), they gain expanded access and use features like direct deposit, bitcoin, and stocks. 
  
- Low-income consumers, specifically in the U.S., are likely to use Cash App more than other payment services, such as Venmo. According to data from Pew Research Center, which was released in September of 2022, lower-income consumers were twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18%. **(PAYMENT DIVE)**
+ Cash App is also more likely to be used by low-income consumers in the U.S. According to data from Pew Research Center, which was released in September of 2022, lower-income consumers comprised twice the share than of upper-income consumers using Cash App in the U.S., specifically by 36% to 18%. **(PAYMENT DIVE)**
 
  Additionally, Pew Research Center discovered the usage of users by age group.
 
@@ -127,9 +130,9 @@ Cash App and Block Inc. are expanding efforts to develop services that are more 
     * 19% - 50 to 64 year olds
     * 9% - 65+ years olds 
 
-Cash App is available both in the U.S. and the U.K. When a user sends money between the U.K or the U.S. "Cash App will convert the payment from the origin currency to the destination currency based on the mid-market exchange rate at the time the payment is created" **(TIMES)**
+Cash App is available both in the U.S. and the U.K. When a user sends money between the U.K or the U.S., "Cash App will convert the payment from the origin currency to the destination currency based on the mid-market exchange rate at the time the payment is created" **(TIMES)**
 
-It was also designed for small businesses and eentrepreneurs to utilize. They can connect with customers by sharing their Cash App QR code, $Cashtag (username), email, or phone number associated with their account. Customers can use Cash App to pay businesses instantly. A business account, Cash for Business, can be created for free and would not need any hardware to process business payments. However, there is a fee for business transactions. Accounts do not pay fees for instant deposits to a business's checking account. **(TIMES)**
+Small businesses and entrepreneurs are another target population that utilize Cash App. They are able to connect with customers by sharing their Cash App QR code, $Cashtag (username), email, or phone number associated with their account. Businesses can be paid instantly through Cash App. A business account, Cash for Business, can be created for free and would not need any hardware to process business payments. However, there is a fee for business transactions. Accounts do not pay fees for instant deposits to a business's checking account. **(TIMES)**
 
 ### **<ins>What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)</ins>**
 
@@ -144,11 +147,9 @@ Cash App beats its competitors by encouraging user loyalty and retention through
 
 Cash App leverages several cutting-edge technologies to provide seamless and a secure user experience.
 
-One of the technologies that Cash App uses a secure encryption, specifically, Cash App is PCI Data Security (PCI-DSS) Level 1 compliant, which is the highest level of compliance and payment standards merchants can comply with to securely store, transmit, and process credit card information. **(CASH APP & ALL ABOUT COOKIES)** Cash App utilizes state-of-the-art encryption algorithms to protect user data and financial transactions. A user's payment information would be encrypted and be sent securely to Cash App's servers; even if they are using public/private WI-Fi or data (3G, 4G, etc.) it would still protect that sensitive information from unauthorized entities. **(CASH APP)** They also offer two-factor authentication.
+It utilizes state-of-the-art secure encryption algorithms to protect user data and their financial transactions. Cash App is a PCI Data Security (PCI-DSS) Level 1 compliant, which is the highest level of compliance and payment standards merchants can comply with to securely store, transmit, and process credit card information. **(CASH APP & ALL ABOUT COOKIES)** If users were to use public or private Wi-Fi or data (3G, 4G, etc.), then their data and sensitive information would be protected from unauthorized entities, as that information would be encrypted and sent securely to Cash App’s servers. As added protection, Cash App offers two-factor authentication.  
 
-
-The second technology they utilize is cloud computing technology, specifically Google Cloud, and artificial intelligence (AI) research firm Dessa to strengthen "Cash App's existing solutions and drive innovation mechanisms to improve customer experience and increase accessibility to bank services." **(GOOGLE CLOUD)** They also "opted to use Google Cloud AI and machine learning (ML) solutions and NVIDIA's graphic processing units (GPUs) to handle the immense compute demands of its applied AI efforts." It allows them to handle large volumes of transactions and user requests, in order to ensure a smooth and interrupted user experience. In general it helps Block Inc.'s data scientist to carry out data-heavy, processing-intensive initiatives.
-
+Not only does Cash App use encryption. It also utilizes cloud computing technology, like Google Cloud, and artificial intelligence (AI) research firm Dessa to strengthen "Cash App's existing solutions and drive innovation mechanisms to improve customer experience and increase accessibility to bank services." **(GOOGLE CLOUD)**. They also "opted to use Google Cloud AI and machine learning (ML) solutions and NVIDIA's graphic processing units (GPUs) to handle the immense compute demands of its applied AI efforts." Essentially, they would be able to handle the large volume of transactions and user requests, ensuring a smooth and uninterrupted user experience. In turn, Block Inc.’s data scientist would be able to conduct data-heavy, processing-intensive initiatives. 
 
 The third technology is near-field communication (NFC). NFC enables users to make contactless payments by simply tapping their smartphones or their Cash Cards against payment terminals/readers. It offers a convenient method for in-person transactions. **(CASHAPP)**
 
@@ -188,21 +189,21 @@ Cash App is in the mobile payment services domain in the financial industry. **(
  </p>
  
  * [Venmo](https://venmo.com/) 
-   * Venmo is a mobile app that makes peer-to-peer money transfers simple and inexpensive/free. Venmo is mobile-only. You cannot send or receive payments on a website/desktop computer, only through the app: even through iMessage. Venmo’s goal is to help those you need assistance on splitting checks and other situations. You can also use it to request money from people.  
+   * Venmo is a mobile app that makes peer-to-peer money transfers simple and inexpensive/free. Venmo is mobile-only. You cannot send or receive payments on a website/desktop computer, only through the app: even through iMessage. Venmo’s goal is to help those who need assistance with splitting checks and other situations. You can also use it to request money from people.  
 
  <p align="center">
  <img src ="https://mybank.com/wp-content/uploads/Intro_Zelle_GIF_NightOut_Q221.gif" width =40% height 10%=/>
  </p>
  
  * [Zelle](https://www.zellepay.com/)
-   * Zelle is a peer-to-peer payment service, which allows users to digitally send money to each other. Over 1,000 banks and credit unions are partnered with Zelle. This service is also automatically included with the institution’s app. Zelle works by linking your checking or savings account and transferring money to another U.S. bank account. Neither payer or payee need to be in the same financial institution as long as it has Zelle. Users can send money from the institution’s app or the Zelle app; that money is automatically deposited within minutes into the recipient’s bank account that they linked their Zelle account to; there are no fees. However, it does not work with business debit cards, credit cards, international accounts, and gift cards. Some banks may allow you to set up a Zelle business account, but the bank might charge a small fee for a business using Zelle; also, consumers need to have Zelle in order to make payments.  
+   * Zelle is a peer-to-peer payment service, which allows users to digitally send money to each other. Over 1,000 banks and credit unions are partnered with Zelle. This service is also automatically included with the institution’s app. Zelle works by linking your checking or savings account and transferring money to another U.S. bank account. Neither payer or payee need to be in the same financial institution as long as it has Zelle. Users can send money from the institution’s app or the Zelle app; that money is automatically deposited within minutes into the recipient’s bank account that they linked to their Zelle account; there are no fees. However, it does not work with business debit cards, credit cards, international accounts, and gift cards. Some banks may allow you to set up a Zelle business account, but the bank might charge a small fee using Zelle; also, consumers need to have Zelle in order to make payments.  
 
 <p align="center">
  <img src ="https://cdn.dribbble.com/users/541128/screenshots/3349890/applepay_dribbble.gif" width =40% height 10%=/>
  </p>
 
  * [Apple Pay](https://www.apple.com/apple-pay/)
-   * Apple Pay provides a secure and an efficient way to make payments in any Apple device. Apple pay can also be used in iMessages for a business or extension. Users can quickly and securly provide payment, shipping, and contact information to check out. It is faster than other payment methods and checkout can be done by a single touch. Customers can complete their purchase just from simply clicking "Buy with Apple Pay" button.
+   * Apple Pay provides a secure and an efficient way to make payments on any Apple device. Apple pay can also be used in iMessages for a business or extension. Users can quickly and securely provide payment, shipping, and contact information to check out. It is faster than other payment methods and checkout can be done by a single touch. Customers can complete their purchase from simply clicking the "Buy with Apple Pay'' button.
         
 
 <p align="center">
@@ -210,7 +211,7 @@ Cash App is in the mobile payment services domain in the financial industry. **(
  </p>
 
  * [Google Pay](https://pay.google.com/about/)
-   * Google Pay is a mobile wallet and is most accesible for Android. You can use Google Pay to pay for items when you check out online, making purchases in-store, paying in-app purchases, or sending and receiving payments from others. When someone pays a user or receive cash-back rewards, The user's money is stored in their account account balanance, which can transfer into their bank account. You can also send and request money using the mobile app. You can use it to split a bill. In order to pay someone, you have to add money into your Google Pay Account. 
+   * Google Pay is a mobile wallet and is most accessible for Android. You can use Google Pay to pay for items when you check out online, making purchases in-store, paying in-app purchases, or sending and receiving payments from others. When someone pays a user or receives cash-back rewards, the user's money is stored in their account balance, which can be transferred into their bank account. You can also send and request money using the mobile app. Also, you can use it to split a bill. In order to pay someone, you have to add money into your Google Pay Account. 
        
 
 
@@ -219,7 +220,19 @@ Cash App is in the mobile payment services domain in the financial industry. **(
 * What has been the business impact of this company so far?
 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+### **<ins> What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?</ins>**
+
+* Financial measures and key metrics they utilize: 
+   * Gross Payment Value (GPV)
+   * Adjusted EBITDA
+   * Adjusted Net Income (Loss)
+   * Diluted Adjusted Net Income(Loss) Per Share (Adjusted EPS)
+   * Adjusted Operation Income (Loss)
+   * Adjusted Operating Income (Loss) margin
+   * constant currency
+   * Adjusted Free Cash Flow
+   * non-GAAP operating expenses as well as other measures defined in this letter such as measures excluding bitcoin revenue, measures excluding gross profit contributions from our BNPL platform, and measures excluding PPP loan forgiveness gross profit. 
+
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -228,12 +241,20 @@ Cash App is in the mobile payment services domain in the financial industry. **(
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
   
+  Cash App should work on international transfers like Venmo.
+
+
 * Why do you think that offering this product or service would benefit the company?
+
+The international transfers will increase their client base and inturn their profits. 
 
 * What technologies would this additional product or service utilize?
 
+This could be done by using or adding an internatinal currency exchange feature in their app. 
+
 * Why are these technologies appropriate for your solution?
 
+Adding international currency exchange feature will make it easier for clients to transfer money outside of the U.S. to all other countries in the world. 
 ## Resources
 * Overview and Origin
 
