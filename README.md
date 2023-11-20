@@ -175,7 +175,7 @@ Cash App is in the mobile payment services domain in the financial industry. It 
 ### **<ins> What have been the major trends and innovations of this domain over the last 5–10 years?</ins>**
 
 * Cash App Boost
-	*When users utilize their Cash Card they can save money by selecting a specific “Boost” that will give them a discount from a particular vendor. 
+	* When users utilize their Cash Card they can save money by selecting a specific “Boost” that will give them a discount from a particular vendor. 
 * Cash App investing and selling cryptocurrency
 	* Users can invest in stocks and can buy /sell digital currency, like Bitcoin.
 * Square Loyalty Reward 
