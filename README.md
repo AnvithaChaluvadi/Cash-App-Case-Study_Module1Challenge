@@ -179,7 +179,7 @@ Cash App is in the mobile payment services domain in the financial industry. It 
 * Cash App investing and selling cryptocurrency
 	* Users can invest in stocks and can buy /sell digital currency, like Bitcoin.
 * Square Loyalty Reward 
-	*Customers have the opportunity to sign up for this loyalty program that gives them a simple way to access various Cash App features, like Cash Card, Boost, etc. 
+	* Customers have the opportunity to sign up for this loyalty program that gives them a simple way to access various Cash App features, like Cash Card, Boost, etc. 
 * Possesses services that are similar to a traditional bank, more convenient to set up than physically going to a bank. 
 
 
